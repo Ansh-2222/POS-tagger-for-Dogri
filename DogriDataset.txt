@@ -1,0 +1,220 @@
+एह्/DEM एशिया/NNP दी/PSP सभनें/INTF शा/PSP बड्डी/JJ मस्जिदें/NN बिच्चा/PSP इक/QC ऐ/VM ।/SYM
+एह्दा/PRP निर्माण/VM नवाब/NN शाहजहां/NN ने/PSP कीता/VM हा/VAUX ।/SYM
+एह्दा/PRP प्रवेश/NN द्वार/NN दो/QC मंजिला/JJ ऐ/VM ।/SYM
+एह्देच/PRP चार/QC मेहराब/NN ते/CC 9/QC प्रवेश/NN द्वार/NN न/PSP ।/SYM
+पूरी/JJ अमारत/NN बड़ी/INTF शैल/JJ ऐ/VM ।/SYM  
+इत्थै/PRP आयोजत/VM त्र'ऊं/QC दिनें/NN दे/PSP इज्तेमा/NN च/PSP पूरे/JJ देश/NN दे/PSP लोकें/NN गी/PSP साद्दा/JJ दित्ता/VM गेआ/VM ऐ/VAUX ।/SYM 
+शौकत/NNP मैह्-ल/NNP दे/PSP सामनै/NST उप्परली/PSP झील/NN दे/PSP कंढे/NN पर/PSP स्थित/JJ ,/SYM वास्तुकला/NN दा/PSP एह्/DEM शैल/JJ टुकड़ा/NN कुदसिया/NNP बेगम/NNP दे/PSP काल/NN दा/PSP ऐ/VM ,/SYM जिस्सी/PRP गोहर/NNP बेगम/NNP दे/PSP नांऽ/NN कन्नै/PSP बी/RB जानेआ/VM जंदा/VAUX ऐ/VAUX ।/SYM
+एह्/PRP हिंदू/NN ते/CC मुगल/NN कला/NN दा/PSP शानदार/JJ संगम/NN ऐ/VM ।/SYM 
+एह्/PRP भारत/NNP दी/PSP बेजोड़/JJ राश्ट्री/JJ संस्था/NN ऐ/VM ।/SYM
+मुक्ख/JJ रूप/NN कन्नै/PSP एह्/PRP प्रदर्शन/NN कला/NN ते/CC दृश्य/NN कलाएं/NN दा/PSP केंदर/NN ऐ/VM ।/SYM
+इसगी/PRP चार्ल्स/NN कोरिया/NNP ने/PSP डिजाइन/NN कीता/VM हा/VAUX ।/SYM
+बड्डे/JJ खेतर/NN च/PSP फैली/VM दी/DEM अमारत/NN दे/PSP आस्सै/NST -/SYM पास्सै/NST दी/PSP कुदरती/JJ सुंदरता/NN इसगी/PRP होर/QF बी/RP शानदार/JJ बनांदी/VM ऐ/VAUX ।/SYM 
+एह्/PRP सोमबारै/NNP गी/PSP छोड़ियै/PSP सारे/JJ हफ्ते/NN दोपहर/NN 2/QC बजे/NN शा/PSP रातीं/NN 8/QC बजे/NN तक्कर/PSP खुʼल्ला/VM रौंह्दा/VAUX ऐ/VAUX ।/SYM 
+एह्/PRP श्यामला/NNP प्हाड़ियें/NNP पर/PSP बड्डी/JJ झील/NN दे/PSP सामनै/NST 200/QC एकड़/NN च/PSP फैले/VM दा/PSP इक/QC अनोखा/JJ अजैबघर/NN ऐ/VM ।/SYM 
+एह्/PRP इक/QC प्रागैतिहासिक/JJ थाह्-र/NN पर/PSP स्थित/JJ ऐ/VM ते/CC दुनिया/NN च/PSP अपनी/PRP चाल्ली/NN दा/PSP इकमात्तर/JJ अजैबघर/NN ऐ/VM जेह्/PRP प्रागैतिहासिक/JJ चित्तरें/NN कन्नै/PSP सजी/JJ गुफाएं/NN दे/PSP कोल/NST ऐ/VM ।/SYM
+ते/CC इस/DEM चाल्ली/NN कन्नै/PSP एह्/PRP वस्तुएं/NN ते/CC परंपराएं/NN कन्नै/PSP जीवंत/JJ रूप/NN कन्नै/PSP जुड़े/VM दा/VAUX/VAUX ऐ।/SYM
+इत्थै/PRP आदिबासी/NN ,/SYM समुंदरी/NN कंढे/NN ,/SYM मरूथल/NN ते/CC हिमालयी/NNP वासें/NN दे/PSP नमूने/NN बी/RP बनाए/VM गे/VAUX न/VAUX ।/SYM 
+अजैबघर/NN च/PSP इक/QC लाइब्रेरी/NN ,/SYM  श्रव्य/JJ -/SYM दृश्य/JJ अभिलेखागार/NN ,/SYM कंप्यूटरीकृत/JJ कमरे/NN ते/CC नमूने/NN न/VAUX ।/SYM 
+मध्य/NNP प्रदेश/NNP दे/PSP बक्ख/JJ -/SYM बक्ख/JJ हिस्सें/NN थमां/PSP कला/NN दे/PSP शैल/JJ नमूने/NN किट्ठे/JJ कीते/VM गे/VAUX न/VAUX ।/SYM
+अजैबघर/NN सोमबारें/NNP गी/PSP बंद/JJ रौंह्दा/VM ऐ/VAUX ।/SYM
+एह्/PRP अरेरा/NNP प्हाड़ियें/NNP पर/PSP स्थित/JJ ऐ/VM ।/SYM
+एह्दे/PRP कोल/PRP इक/QC अजैबघर/NN ऐ/VM जित्थै/PRP मध्यप्रदेश/NNP दे/PSP रायसेन/NNP ,/SYM सीहोर/NNP ,/SYM मंदसौर/NNP ते/CC शहडोल/NNP जि'लें/NN थमां/PSP किट्ठे/JJ कीते/VM गेदे/VAUX कला/NN दे/PSP नमूने/NN रक्खे/VM जंदे/VAUX न/VAUX ।/SYM
+अजैबघर/NN बी/RP सोमबारें/NNP गी/PSP छोड़ियै/VM पूरे/JJ हफ्ते/NN दे/PSP दिनें/NN 9/QC बजे/NN शा/PSP 5/QC बजे/NN तक्कर/PSP खुल्ला/VM रौंह्दा/VAUX ऐ/VAUX ।/SYM 
+एह्/PRP सफारी/NN बगीचा/NN बड्डी/JJ झील/NN दे/PSP कोल/PRP प्हाड़ी/NN पर/PSP स्थित/JJ ऐ/VM ।/SYM
+एह्/PRP 445/QC हेक्टेयर/NN च/PSP फैले/VM दा/PSP ऐ/VAUX ।/SYM 
+कुदरती/JJ सुंदरता/NN दे/PSP बिच्च/NST ,/SYM तुस/PRP बक्ख/JJ -/SYM बक्ख/JJ किसम/NN दे/PSP शाकाहारी/JJ ते/CC मांसाहारी/JJ जीवें/NN गी/PSP दिक्खने/VM दा/PSP नंद/NN लेई/VM सकदे/VAUX ओ/VAUX ।/SYM
+एह्/PRP मंगलबार/NNP गी/PSP छोड़ियै/VM हर/QF रोज/JJ बडलै/NN 7/QC बजे/NN शा/PSP 11/QC  बजे/NN तक्कर/PSP ते/CC दपैह्-री/NN 3/QC  बजे/NN शासʼञां/NN  5/QC  बजे/NN तक्कर/PSP खुʼल्ला/VM रौंह्दा/VM ऐ/VAUX ।/SYM 
+एह्/PRP मूल/JJ रूप/NN कन्नै/PSP इक/QC विज्ञान/NN अजैबघर/NN ऐ/VM जेह्/PRP ड़ा-श्यामाला/NNP प्हाड़ियें/NNP दी/PSP सुंदरता/NN दे/PSP बिच्च/NST स्थित/JJ ऐ/VM ।/SYM
+अविश्कार/NN ते/CC मजेदार/NN विज्ञानएन/NN गैलरियां/NN न/VM ते/CC तारामंडल/NNP नांS/NN दा/PSP इक/QC तारामंडल/NN बी/RP ऐ/VM ।/SYM 
+एह्/PRP सोमबारै/NNP गी/PSP छोड़ियै/VM हर/QF रोज/JJ बडलै/NN  10.30/QC बजे/NN शा/PSP बडलै/NN   6.30/QC  बजे/NN तक्कर/PSP खुʼल्ला/VM रौंह्दा/VAUX ऐ/VAUX ।/SYM 
+शैह्-रै/NN दे/PSP बिच्चो-बिच्च/NST चौक/NNP च/PSP परानियां/JJ मस्जिदां/NN ते/CC हवेलियां/NN अतीत/NN दा/PSP चेता/NN दोआंदियां/VM न/VAUX ।/SYM 
+तंग/JJ ग'लियें/NN च/PSP हट्टियां/NN न/VM जिं'दे/PRP च/PSP दस्तकारी/NN दे/PSP खजाने/NN खुʼल्ले/VM दे/PSP न/VAUX ।/SYM
+इत्थै/PRP तुस/PRP चांदी/NN दे/PSP गैह्-ने/NN ,/SYM मोतियें/NN दा/PSP कम्म/NN ,/NN कढ़ाई/NN दा/PSP कम्म/NN ते/CC सेक्विन/NN दा/PSP कम्म/NN इक/QC शैल/JJ शैली/NN च/PSP दिक्खी/VM सकदे/VAUX ओ/VAUX ते/CC खरीदी/VM सकदे/VAUX ओ/VAUX ।/SYM 
+बड्डी/NNP झील/NNP गी/PSP इक/QC ओवरब्रिज/NN राहें/NN लौह्/NN की/PSP झील/NNP कोला/PSP बक्खरा/JJ कीता/VM गेआ/VM ऐ/VAUX ।/SYM
+एम.प्र./NNP टूरिस्ट/NNP बोट/NNP क्लब/NNP बड्डी/NNP झील/NNP च/PSP किश्तीसैर/NN बी/RP प्रदान/VM करदा/VM ऐ/VAUX ।/SYM 
+लौह्की/ADJ झील/NNP च/PSP मच्छी/NN दे/PSP आकार/NN दा/PSP मछलीघर/NN ऐ/VM ।/SYM
+किʼयां/WQ पुज्जना/VM ऐ/VAUX ?/SYM
+दिल्ली/NNP ,/SYM ग्वालियर/NNP ,/SYM  इंदौर/NNP ते/CC मुंबई/NNP थमां/PSP भोपाल/NNP आस्तै/PSP स्थायी/ADJ उड़ानां/NN न/VM ।/SYM
+भोपाल/NNP ,/SYM दिल्ली/NNP ते/CC मद्रास/NNP मुक्ख/NN लाइन/NN पर/PSP ऐ/VM ।/SYM 
+मुंबई/NNP कोला/PSP इटारसी/NNP ते/CC झांसी/NNP होंदे/VM होई/VM दिल्ली/NNP आस्तै/PSP मुक्ख/JJ रेलगड्डियां/NN भोपाल/NNP थमां/PSP होंदियां/VAUX न/VAUX ।/SYM
+भोपाल/NNP ते/CC इंदौर/NNP ,/SYM मांडू/NNP ,/SYM उज्जैन/NNP ,/SYM  खजुराहो/NNP ,/SYM पचमढ़ी/NNP ,/SYM ग्वालियर/NNP ,/SYM सांच/NNP ,/SYM जबलपुर/NNP ते/CC शिवपुरी/NNP दे/PSP बिच्च/NST स्थायी/JJ बस्स/NN सेवां/NN न/VM ।/SYM 
+अंश/NN इक/DEM चंगा/JJ जागतै/NN ऐ/VAUX ।/SYM
+कुसलै/WQ जाना/VM ऐ/VAUX ?/SYM
+तुस/PRP कुसै/PRP बी/RP समें/NN उत्थै/PRP जाई/VM सकदे/VAUX ओ/VAUX ।/SYM
+ओरछा/NNP दी/PSP भव्यता/NN पत्थरें/NN च/PSP कैद/NN ऐ/VM ,/SYM समें/NN इत्थै/PRP स्थिर/VM सेही/VM होंदा/VAUX ऐ/VAUX ते/CC अस/PRP बʼरें/NN ते/CC बʼरें/NN पिच्छें/NST इक/QC मध्ययुगी/NNP शैह्-र/NN च/PSP जंदे/VAUX आं/VAUX ।/SYM
+इत्थूं/PSP तक्कर/PSP समें/NN दी/PSP धुंध/NN बी/RP मंदरें/NN ते/CC मैह्-लें/NN दी/PSP चमक/NN गी/PSP धुंधला/VM नेईं/NEG करी/VM सकी/VAUX ऐ/VAUX ।/SYM
+16मीं/NNP कोला/PSP 17मीं/NNP शताब्दी/NNP च/PSP बुंदेला/NNP शासकें/NN आसेआ/PSP बनाई/VM गेदियां/VAUX एह्/DEM इमारतां/NN परानी/JJ महिमा/NN दी/PSP गल्ल/NN करदियां/VM न/VAUX ।/SYM 
+ओरछा/NNP दी/PSP स्थापना/NN बुंदेला/NNP राजपूत/NN रुद्र/NNP प्रताप/NNP ने/PSP 16मीं/NNP शताब्दी/NNP च/PSP कीती/VM ही/RP ।/SYM 
+उंʼदे/PRP शा/PSP पैह्-लें/NST दे/PSP राजें/NN शानदार/JJ इमारतें/NN ते/CC भवन/NN दा/PSP निर्माण/VM कीता/VM ते/CC एह्/PRP दी/PSP शान/NN च/PSP बाद्धा/JJ कीता/VM।/SYM
+उंʼदे/PRP चा/PSP राजा/NN बीर/NNP सिंह/NNP जुदेव/NNP दा/PSP नांऽ/NN प्रमुख/JJ ऐ/VM ।/SYM
+मंदरें/NN ते/CC मैह्-लें/NN च/PSP बुंदेला/NNP कला/NN दी/PSP शैल/JJ कलात्मकता/NN दिक्खने/VM लायक/JJ ऐ/VAUX ।/SYM 
+लक्ष्मीनारायण/NNP मंदर/NNP ते/CC राजमहल/NN दियें/PSP कंधें/NN ते/CC छतें/NN दी/PSP कलात्मकता/NN इंʼदी/PRP समृद्धि/NN दी/PSP क्हानी/NN दस्सदी/VM ऐ/VAUX ।/SYM
+इस/DEM मैह्-ल/NN दा/PSP निर्माण/VM जहांगीर/NNP दे/PSP ओरछा/NNP च/PSP औने/VM शा/PSP पैह्-लें/NST  17मीं/NNP सदी/NNP च/PSP राजा/NN बीर/NNP सिंह/NNP जुदेव/NNP ने/PSP कीता/VM हा/VAUX ।/SYM  
+अपनी/PRP मजबूत/JJ कंधें/NN कन्नै/PSP नाजुक/JJ तरीके/NN कन्नै/PSP बनाई/VM गेदी/VAUX छतरियां/NN इक/QC अद्भुत/JJ संतुलन/NN बनांदियां/VM न/VAUX ते/CC पूरी/JJ इमारत/NN गी/PSP बड़ा/INTF समृद्ध/JJ असर/NN दिंदियां/VM न/VAUX ।/SYM
+चतुर्भुज/NN आकार/NN दा/PSP एह्/DEM मैह्-ल/NN 17मीं/NNP सदी/NNP च/PSP मधुकर/NNP शाह/NNP ने/PSP बनाया/VM  हा/VAUX ।/SYM
+एह्/PRP असान/JJ ऐ/VAUX |/SYM
+एह्/PRP द'ऊं/QC बनावटी/JJ तलाएं/NN मुंज/NNP तालाब/NN ते/CC कपूर/NNP तलाब/NN दे/PSP बिच्च/NST बनाया/VM गेआ/VM ऐ/VAUX ।/SYM
+एह्दा/PRP निर्माण/VM सुल्तान/NN गियासुद्दीन/NNP खिलजी/NNP ने/PSP इक/QC बड्डे/JJ हरम/NN दे/PSP रूपै/PSP च/PSP कीता/VM हा/VAUX |/SYM
+इंʼदे/PRP खु'ल्ले/JJ गलियारे/NN ,/SYM उभरे/VM  दे/PSP बालकनी/NN ते/CC शैल/JJ छत/NN शाही/JJ शौक/NN गी/PSP असानी/NN कन्नै/PSP व्यक्त/NN करदे/VM न/VAUX |/SYM
+रातीं/NN तवेली/NNP मैह्-ल/NNP थमां/PSP इसगी/PRP दिक्खना/VM बड़ा/INTF सुखद/JJ होंदा/VAUX ऐ/VM ।/SYM
+इसगी/PRP दर्शकें/NN दे/PSP बौह्-ने/NN दी/PSP व्यवस्था/NN दे/PSP रूपै/PSP च/PSP बनाया/VM गेआ/VAUX हा/VAUX ।/SYM
+एह्दे/PRP आस्सै/NST -/SYM पास्सै/NST दियां/PSP कंधां/NN किश/QF झुक्की/VM दियां/VAUX न/VM ,/SYM जिस/PRP कारण/PSP इʼनेंगी/PRP हिंडोला/NNP मैह्-ल/NNP आखेआ/VM जंदा/VAUX ऐ/VAUX ।/SYM
+इत्थै/PRP बलुआ/NNP पत्थर/NN पर/PSP नक्काशी/NN दा/PSP इक/QC बेजोड़/JJ नमूना/NN दिक्खेआ/VM गेआ/VM ऐ/VAUX ।/SYM
+इत्थूं/PRP दे/PSP शैल/JJ स्तंभ/NN मन/NN गी/PSP मोह्-त/VM करी/VM लैंदे/VAUX न/VAUX ।/SYM
+इस/DEM मैह्-ल/NN दे/PSP कोल/NST केईं/QF लौह्कियां/JJ इमारतां/NN न/VM जेह्ड़ियां/PRP उंʼदे/PRP अतीत/NN दी/PSP क्हानी/NN दसदियां/VM न/VAUX ।/SYM 
+एह्/PRP अफगान/JJ कला/NN दी/PSP इक/QC बेजोड़/JJ मिसाल/NN ऐ/VM ।/SYM
+शाहजहां/NNP ने/PSP ताजमहल/NNP बनाने/VM शा/PSP पैह्ले/NST एह्दे/PRP गुंबद/NN थमां/PSP मोहित/JJ होइयै/VM अपने/PRP च'ऊं/QC वास्तुशिल्प/JJ माहिरें/NN गी/PSP इत्थै/PRP भेजेआ/VM हा/VAUX ।/SYM  
+मस्जिद/NN दे/PSP गलियारे/NN गी/PSP खंभें/NN ते/CC मेहराबें/NN कन्नै/PSP सजाया/VM गेआ/VAUX ऐ/VAUX ।/SYM
+एह्/PRP रूपमती/NNP दे/PSP मैह्-ल/NN च/PSP पानी/NN दी/PSP सप्लाई/VM आस्तै/PSP बनाया/VM गेआ/VAUX हा/VAUX ।/SYM
+हून/PRP इसगी/PRP इक/QC पवित्तर/JJ थाह्-र/NN दे/PSP रूपै/PSP च/PSP जानेआ/VM जंदा/VAUX ऐ/VAUX ।/SYM
+इत्थुआं/PRP पूरे/JJ मांडू/NNP दा/PSP इक/QC मनोरम/JJ नजारा/NN दिक्खेआ/VM जाई/VAUX सकदा/VAUX ऐ/VAUX ।/SYM
+एह्/PRP सैनिकें/NN आस्तै/PSP पूरे/JJ खेतर/NN पर/PSP नजर/NN रक्खने/VM आस्तै/PSP बनाया/VM गेआ/VAUX हा/VAUX ।/SYM
+इस/DEM शानदार/JJ अमारत/NN थमां/PSP बाज/NNP ब्हादर/NNP दा/PSP मैह्-ल/NN ते/CC नर्मदा/NNP नदी/NN गी/PSP निमाड़/NNP दे/PSP मैदान/NN च/PSP बगदे/VM दिक्खेआ/NN जाई/VAUX सकदा/VAUX ऐ/VAUX ।/SYM
+राम/NNP ते/CC श्याम/NNP दोस्त/NN न/VM ।/SYM    
+इत्थै/PRP शिव/NNP दा/PSP मंदर/NN ऐ/VM उत्थै/PRP जाने/VM आस्तै/PSP सीढ़ियें/NN थमां/PSP उतरना/VM पौंदा/VAUX ऐ/VAUX ।/SYM  
+इस/DEM मंदर/NN दी/PSP सुंदरता/NN गी/PSP शब्दें/NN च/PSP वर्णत/NN नेईं/NEG कीता/VM जाई/VAUX सकदा/VAUX ऐ/VM ।/SYM
+बूह्/NST टें/PSP कन्नै/PSP घिरे/VM दे/PSP तलाऽ/NN दी/DEM इक/QC धारा/NN शिव/NNP दा/PSP अभिषेक/NN करने/VM आस्तै/PSP खʼल्ल/NST जंदी/VM ऐ/VAUX ।/SYM
+मंदरै/NN दे/PSP कोल/NST स्थित/JJ इस/DEM मैह्-ल/NN दा/PSP निर्माण/NN शाह/NNP बडगा/NNP खान/NNP ने/PSP अकबर/NNP दी/PSP हिंदू/JJ पत्नी/NN आस्तै/PSP कीता/VM हा/VAUX ।/SYM
+अकबर/NNP दी/PSP कला/NN दे/PSP नमूने/NN एह्/PRP दी/PSP कंधें/NN पर/PSP दिक्खे/VM जाई/VAUX सकदे/VAUX न/VAUX ।/SYM
+हाथी/NNP महल/NNP ,/SYM दरिया/NNP खान/NNP दा/PSP मजार/NNP ,/SYM दाई/NNP महल/NNP ,/SYM दाई/NNP दी/PSP लौह्की/NNP भैन/NNP दा/NNP मैह्-ल/NNP ,/SYM मलिक/NNP मघाट/NNP दी/PSP मस्जिद/NNP ते/CC जली/NNP मैह्-ल/NNP बी/RP  दिक्खने/JJ काबल/ADJ न/VM ।/SYM  
+इको/NN प्वाइंट/NN पर/PSP इत्थें/PRP जात्तरियें/NN दी/PSP भीड़/NN -/SYM भाड़/NN होंदी/VAUX ऐ/VAUX ।/SYM
+लोहानी/NNP गुफां/NN ते/CC उंʼदे/PRP सामनै/NST स्थित/JJ सनसेट/NN प्वाइंट/NN बी/RP सलानियें/NN गी/PSP आकर्शत/VM करदे/VM न/VAUX ।/SYM
+कि'यां/WQ जाना/VM ऐ/VAUX ?/SYM
+99/QC कि.मी./NN दी/PSP दूरी/NN पर/PSP इंदौर/NNP ब्हाई/NNP अड्डा/NNP नेड़मा/NST ऐ/VM जेह्-ड़ा/PRP मुंबई/NNP ,/SYM दिल्ली/NNP ते/CC भोपाल/NNP कन्नै/PSP जुड़े/VM दा/PSP ऐ/VAUX ।/SYM
+इंदौर/NNP ,/SYM धार/NNP ,/SYM महू/NNP ,/SYM उज्जैन/NNP ते/CC भोपाल/NNP थमां/PSP स्थायी/JJ बस/NN सेवाएं/NN राहें/PSP इत्थै/PRP पुज्जेआ/VM जाई/VAUX सकदा/VAUX ऐ/VAUX ।/SYM
+रतलाम/NNP रेल/NNP सदर-मकाम/NNP (/SYM 124/QC किमी./NN)/SYM मुंबई/NN -/SYM दिल्ली/NN मुक्ख/JJ पटड़ी/NN पर/PSP ऐ/VM ते/CC इंदौर/NNP 99/QC किमी./NN दूर/NN ऐ।/SYM एह्/PRP किश./NN दूरी/NN पर/PSP ऐ/VM ।/SYM
+कुसलै/WQ जाना/VM ऐ/VAUX ?/SYM
+इस/DEM थाह्-रै/NN पर/PSP जाने/VM दा/PSP सभनें/INTF शा/PSP चंगा/JJ समां/NN जुलाई/NNP कोला/PSP मार्च/NNP तक्कर/PSP ऐ/VM ।/SYM
+इस/DEM बेल्लै/NN इत्थै/PRP इक/QC मेला/NN ऐ/VAUX ।/SYM
+उच्ची/JJ प्हाड़ी/NN पर/PSP रणथंभौर/NN दा/PSP पैह्-ला/QC अबादी/NN आह्-ला/ADJ किला/NN हा/VAUX ,/SYM जिसी/PRP तलहटी/NN च/PSP इक/QC शासक/NN ने/PSP इक/QC बʼरे/NN आस्तै/PSP घेरी/NN लैता/VM हा/VAUX ।/SYM
+रणथंभौर/NNP किला/NNP समुंदर/NN तल/NN शा/PSP  401/QC मीटर/NN उप्पर/PSP इक/QC प्हाड़ी/NN पर/PSP बनाया/VM गेआ/VM ऐ/VAUX जेह्ड़ा/PSP केइयें/QF जुद्धें/NN गी/PSP भुगड़े/VM दा/PSP ऐ/VAUX ते/CC केईं/QF राजें/NN ते/CC नवाबें/NN दे/PSP उत्थान/JJ ते/CC पतन/NN दा/PSP साक्षी/NN बनेआ/VM ऐ/VAUX  ।/SYM
+एह्/PRP दी/PSP तलहटी/NN च/PSP 392/QC वर्गमीटर/NN खेतर/NN च/PSP इक/QC घना/JJ जंगल/NN ऐ/VM जिसगी/PRP राश्ट्री/NNP वन्यजीव/NNP बाग/NN आखेआ/VM जंदा/VAUX ऐ/VAUX ।/SYM
+बाघें/NN दे/PSP अलावा/PSP मती/JJ गिनतरी/NN च/PSP तेंदुए/NN ,/SYM हिरन/NN ,/SYM चीतल/NN ,/SYM नीलगाय/NN ,/SYM जंगली/JJ सूर/NN ते/CC केईं/QF किस्में/VM दे/PSP पक्खरू/NN न/VM ।/SYM
+किले/NN ते/CC बगीचे/NN तक्कर/PSP पुज्जने/VM आस्तै/PSP छड़ी/VM इक/QC गै/RP सिड़क/NN ऐ/VM ।/SYM
+एह्/DEM किला/NN बʼरा/NNP 994/QC च/PSP बनाया/VM गेआ/VAUX हा/VAUX ।/SYM
+किले/NN दे/PSP अंदर/NST,/SYM मैह्-लें/NN ,/SYM छतरें/NN ,/SYM फौजी/NN कैंपें/NN ,/SYM हिंदू/NN -/SYM जैन/NN मंदरें/NN ,/SYM मस्जिदें/NN ते/CC फकीर/NN दी/PSP दरगाह्/NN दे/PSP अवशेश/NN बी/RP दिक्खे/VM जाई/VAUX सकदे/VAUX न/VAUX ।/SYM
+इत्थूं/PRP दा/PSP गणेश/NNP मंदर/NN अजें/NN बी/RP शरधालुएं/NN दे/PSP सम्मान/NN दा/PSP केंदर/NN ऐ/VM ,/SYM जित्थै/PRP हरबʼरै/NN भद्रापक्ख/NNP सुदी/NNP चतुर्थी/NNP गी/PSP मेला/NN आयोजत/VM कीता/VM जंदा/VAUX ऐ/VAUX ।/SYM
+लोक/NN पैदल/JJ किले/NN दी/PSP परिक्रमा/NN बी/RP करदे/VM न/VAUX ।/SYM 
+1192/QC च/PSP ,/SYM पृथ्वीराज/NNP चौहान/NNP दे/PSP पोतरे/NN गोविंदा/NNP ने/PSP एह्/PRP पर/PSP शासन/NN कीता/VM ।/SYM
+बाद/NST च/PSP ,/SYM उंʼदे/PRP पुत्तर/NN बागभट्ट/NNP ने/PSP किले/NN च/PSP स्थित/VM शैह्-र/NN गी/PSP शैल/JJ बनाया/VM ।/SYM
+1282/QC च/PSP इत्थै/PRP चौहान/NNP वंश/JJ दे/PSP राजा/NN हमीर/NNP दा/PSP शासन/NN हा/VM।/SYM 
+  
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+ 
+
+कुदरती/JJ सुंदरता/NN कन्नै/PSP भरोचे/JJ दे/PSP इस/DEM शैह्-र/NN च/PSP तुस/PRP स्विट्ज़रलैंड/NNP दे/PSP इतिहास/NN ते/CC वर्तमान/NN दौनें/QC गी/PSP दिक्खी/VM सकदे/VAUX ओ/VAUX ।/SYM
+जेकर/CC तुंʼदे/PRP कोल/NST थोह्ड़ा/QF समां/NN ते/CC हिम्मत/NN ऐ/VM तां/CC सूरज/NN  चढ़दे/VM बेल्लै/PSP इत्थै/PRP प्हाड़ें/NN पर/PSP चलना/NN बड़ा/INTF सुखद/JJ होंदा/VAUX ऐ/VAUX ।/SYM 
+
+
+
+फोन/NN बजदा/VM ऐ/VAUX ।/SYM
+पक्खरू/NN उड़दा/VM ऐ/VAUX ।/SYM
+साफ/JJ कपड़े/NN पाओ/VM ।/SYM
+अपना/PRP घर-कम्म/NN करो/VM ।/SYM
+गड्डी/NN आई/VM गेई/VAUX ऐ/VAUX ।/SYM
+बत्ती/NN जਗਾओ/VM ।/SYM
+डुग्गर/NNP प्रदेश/NN च/PSP राजा/NNP मंडलीक/NNP गी/PSP इक/QC बड्डे/INTF शक्तिशाली/JJ लोक-देवता/NN दे/PSP रूप/NN च/PSP पूजेआ/VM जंदा/VAUX ऐ/VAUX ,/SYM जिʼनें/PRP दी/PSP वीरता/NN ते/CC रक्षा/NN दियां/PSP क्हानियां/NN अजें/RB बी/RP ग्रांएं/NN च/PSP बड़ी/INTF श्रद्धा/NN कन्नै/PSP सुनाई/VM जंदियां/VAUX न/VAUX ।/SYM
+पंखा/NN चलदा/VM ऐ/VAUX ।/SYM
+अज्ज/NN छुट्टी/NN ऐ/VM ।/SYM
+कृपा/NN करियै/VM बैह्-ई/VM जाओ/VAUX ।/SYM
+मिगी/PRP चाऽ/NN पसंद/JJ ऐ/VM ।/SYM
+मेरा/PRP कम्म/NN मुक्की/VM गेआ/VAUX ऐ/VAUX ।/SYM
+एह्/DEM नमीं/JJ कलम/NN ऐ/VM ।/SYM
+बिल्ली/NN दुद्ध/NN पींदी/VM ऐ/VAUX ।/SYM
+गुलाब/NN लाल/JJ ऐ/VM ।/SYM
+अंबर/NN साफ/JJ ऐ/VM ।/SYM
+ओह्/PRP तेज/JJ दौड़दा/VM ऐ/VAUX ।/SYM
+ओह्/PRP गाना/NN गांदी/VM ऐ/VAUX ।/SYM
+मिगी/PRP भुੱਖ/NN लग्गी/VM ऐ/VAUX ।/SYM
+पानी/NN ठंडा/JJ ऐ/VM ।/SYM
+खिड़की/NN खु'ल्ली/VM करो/VAUX ।/SYM
+पिछले/JJ किश/QF ब'रें/NN थमां/PSP ,/SYM शैह्-र/NN दे/PSP वासियें/NN च/PSP अपने/PRP आप/PRP गी/PSP स्वस्थ/JJ ते/CC तंदुरुस्त/JJ रक्खने/VM आस्तै/PSP नमें/JJ बनेदे/VM तवी/NNP रिवरफ्रंट/NNP पर/PSP बडलै/NN सैर/NN करने/VM दा/PSP इक/QC चलन/NN बधेआ/VM ऐ/VAUX ।/SYM
+शैह्-र/NN दे/PSP पराने/JJ हिस्सें/NN च/PSP अजें/NN बी/RP बारीक/JJ लक्कड़/NN दे/PSP कम्म/NN कन्नै/PSP बनियां/VM किश/QF सोह्नियां/JJ हवेलियां/NN लब्भी/VM जंदियां/VAUX न/VAUX ,/SYM जेह्ड़ियां/PRP बीते/VM दे/PSP समें/NN दी/PSP क्हानी/NN दस्सदियां/VM न/VAUX पर/CC हून/RB नमीं/JJ इमारतें/NN च/PSP अपनी/PRP पछान/NN गुआंदियां/VM न/VAUX ।/SYM
+रघुनाथ/NNP बजार/NNP सिर्फ/RB जम्मू/NNP दा/PSP धार्मिक/JJ केंदर/NN गै/RP नेईं/NEG ऐ/VM ,/SYM बल्के/CC इक/QC बड्डा/JJ बपारिक/JJ केंद्र/NN बी/RP ऐ/VM ,/SYM जित्थै/PRP आसपास/NST दे/PSP खेतरें/NN दे/PSP बपारी/NN थोक/NN च/PSP समान/NN खरीदने/VM औंदे/VM न/VAUX ।/SYM
+अक्टूबर/NNP दे/PSP सुहाने/JJ मौसम/NN दा/PSP फायदा/NN चुक्कदे/VM होई/VM ,/SYM केईं/QF परिबार/NN हफ्ते/NN दे/PSP अंत/NN च/PSP मानसर/NNP जां/CC सुरिंसर/NNP झील/NNP जनेह्/JJ नेड़ै/NST दे/PSP पर्यटन/NN स्थलें/NN पर/PSP पिकनिक/NN आस्तै/PSP जाने/VM दी/PSP योजना/NN बनांदे/VM न/VAUX ।/SYM
+जि'यां-जि'यां/RB शैह्-र/NN च/PSP रात/NN डुग्गी/JJ होंदी/VAUX ऐ/VAUX ,/SYM मुक्ख/JJ बजारें/NN दियां/PSP मते/QF सारियां/QF हट्टियां/NN बंद/JJ होई/VM चुकियां/VAUX न/VAUX ते/CC सिड़कें/NN पर/PSP यातायात/NN बी/RP घटी/VM गेआ/VAUX ऐ/VAUX ,/SYM जिसदे/PRP कन्नै/PSP दिन/NN भर/NN दी/PSP भाग-दौड़/NN दे/PSP बाद/NST शांति/NN महसूस/NN होंदी/VAUX ऐ/VAUX ।/SYM
+विश्वविद्यालय/NNP सिर्फ/RB डिग्री/NN हासल/NN करने/VM दी/PSP थाह्-र/NN नेईं/NEG ऐ/VM ,/SYM बल्के/CC इक/QC ऐसी/DEM संस्था/NN ऐ/VM जेह्ड़ी/PRP कुसै/PRP बी/RP विद्यार्थी/NN दे/PSP बौद्धिक/JJ ते/CC व्यक्तिगत/JJ विकास/NN च/PSP महत्वपूर्ण/JJ भूमिका/NN निभांदी/VM ऐ/VAUX ।/SYM
+विश्वविद्यालय/NNP दा/PSP परिसर/NN बड़े/INTF बड्डे/JJ खेतर/NN च/PSP फैलेआ/VM दा/PSP ऐ/VAUX ,/SYM जित्थै/PRP सोह्ने/JJ बगीचे/NN ,/SYM पराने/JJ छायादार/JJ रूख/NN ते/CC बक्ख-बक्ख/JJ विभागें/NN दियां/PSP उच्चियां/JJ इमारतां/NN न/VM ।/SYM
+प्रवेश/NN परीखिआ/NN दे/PSP नतीजे/NN घोषित/JJ होने/VM दे/PSP बाद/NST ,/SYM विश्वविद्यालय/NNP दे/PSP बक्ख-बक्ख/JJ स्नातकोत्तर/JJ विभागें/NN च/PSP नमें/JJ विद्यार्थियें/NN दे/PSP दाखिले/NN दी/PSP प्रक्रिया/NN शुरू/NN होई/VM जंदी/VAUX ऐ/VAUX ।/SYM
+हर/QF ब'रै/NN ,/SYM विश्वविद्यालय/NNP च/PSP इक/QC भव्य/JJ सांस्कृतिक/JJ महोत्सव/NN दा/PSP आयोजन/NN कीता/VM जंदा/VAUX ऐ/VAUX ,/SYM जिसदे/PRP च/PSP सारे/JJ विभागें/NN दे/PSP विद्यार्थी/NN बड़े/INTF चाऽ/NN कन्नै/PSP हिस्सा/NN लैंदे/VM न/VAUX ।/SYM
+विश्वविद्यालय/NNP दा/PSP मुक्ख/JJ पुस्तकालय/NN देर/JJ रातीं/NN तिक्कर/PSP खु'ल्ला/VM रौंह्दा/VAUX ऐ/VAUX ,/SYM जेह्ड़ा/PRP अपनी/PRP परीखिआ/NN दी/PSP तैयारी/NN करदे/VM विद्यार्थियें/NN आस्तै/PSP इक/QC बड़ी/INTF चंगी/JJ सुविधा/NN ऐ/VM ।/SYM
+राश्ट्री/JJ अखबारें/NN दे/PSP अलावा/PSP ,/SYM डोगरी/NNP ते/CC हिंदी/NNP च/PSP छपने/VM आह्-ले/ADJ केईं/QF स्थानीय/JJ दैनिक/JJ अखबार/NN लोकें/NN तिक्कर/PSP क्षेत्रीय/JJ खबरें/NN पुज्जाने/VM च/PSP इक/QC महत्वपूर्ण/JJ भूमिका/NN निभांदे/VM न/VAUX ।/SYM
+सुचेतगढ़/NNP सीमा/NN पर/PSP बाघा/NNP सीमा/NN दी/PSP चाल्ली/NN पर/PSP रोज/NN होंदी/VM रिट्रीट/NNP सेरेमनी/NNP बड़ी/INTF गिनतरी/NN च/PSP सैलानियें/NN गी/PSP आकर्षित/VM करदी/VAUX ऐ/VAUX ,/SYM जेह्ड़े/PRP उत्थै/PRP देसभक्ति/NN दा/PSP माहौल/NN दिक्खने/VM औंदे/VM न/VAUX ।/SYM
+अमर/NNP मैह्-ल/NNP पैलेस/NNP ,/SYM जेह्ड़ा/PRP दिक्खने/VM च/PSP इक/QC फ्रांसीसी/JJ किले/NN जनेह्/JJ लग्गदा/VAUX ऐ/VAUX ,/SYM हून/RB इक/QC अजैबघर/NN दे/PSP रूप/NN च/PSP कम्म/NN करदा/VAUX ऐ/VAUX जित्थै/PRP कीमती/JJ चित्तरकला/NN ते/CC डोगरा/NNP राजें/NN दा/PSP सोने/NN दा/PSP सिंहासन/NN दिक्खेआ/VM जाई/VAUX सकदा/VAUX ऐ/VAUX ।/SYM
+चंगे/JJ रोजगार/NN ते/CC शिक्षा/NN दे/PSP मौकें/NN दी/PSP बजा/NN कन्नै/PSP ,/SYM पिछले/JJ किश/QF ब'रें/NN च/PSP दूर/JJ दे/PSP प्हाड़ी/JJ ग्रांएं/NN थमां/PSP जम्मू/NNP शैह्-र/NN च/PSP पलायन/NN दा/PSP चलन/NN बधेआ/VM ऐ/VAUX ।/SYM
+मानसून/NNP दी/PSP भारी/JJ बरखा/NN दे/PSP बाद/NST ,/SYM जम्मू/NNP दे/PSP आसपास/NST दी/PSP प्हाड़ियां/NN पूरी/INTF चाल्ली/NN कन्नै/PSP हरियां-भरियां/JJ होई/VM जंदियां/VAUX न/VAUX ,/SYM जेह्ड़ा/PRP नजारा/NN प्रकृति/NN प्रेमियें/NN आस्तै/PSP बड़ा/INTF मनमोहक/JJ होंदा/VAUX ऐ/VAUX ।/SYM
+डोगरा/NNP संस्कृति/NN च/PSP त्यौहारें/NN दी/PSP दावत/NN च/PSP अक्सर/RB 'खट्टा/NNP मीट'/NNP नांऽ/NN दा/PSP इक/QC खास/JJ पकवान/NN बनाया/VM जंदा/VAUX ऐ/VAUX ,/SYM जिसदे/PRP च/PSP मटन/NN गी/PSP खट्टा/JJ स्वाद/NN देने/VM आस्तै/PSP अमचूर/NN जां/CC इमली/NN कन्नै/PSP पकाया/VM जंदा/VAUX ऐ/VAUX ।/SYM
+रेल/NN पटड़ी/NN दे/PSP कटरा/NNP तिक्कर/PSP विस्तार/NN होने/VM कन्नै/PSP ,/SYM पूरे/JJ देश/NN दे/PSP शरधालुएं/NN आस्तै/PSP वैष्णो/NNP देवी/NNP दे/PSP आधार/NN शिविर/NN तिक्कर/PSP पुज्जना/VM बड़ा/INTF सोखा/JJ होई/VM गेआ/VAUX ऐ/VAUX ।/SYM
+स्मार्ट/NNP सिटी/NNP प्रोजेक्ट/NN दे/PSP तहत/PSP ,/SYM शैह्-र/NN दे/PSP बुनियादी/JJ ढांचे/NN गी/PSP सुधारने/VM आस्तै/PSP भूमिगत/JJ केबलिंग/NN ते/CC चौकें/NN दे/PSP सुंदरीकरण/NN जनेह्/JJ केईं/QF नमें/JJ विकास/NN कम्म/NN कीते/VM जाई/VAUX रए/VAUX न/VAUX ।/SYM
+जम्मू/NNP दे/PSP मौलाना/NNP आजाद/NNP स्टेडियम/NNP ने/PSP कई/QF राश्ट्री/JJ स्तर/NN दे/PSP क्रिकेट/NNP ते/CC फुटबॉल/NNP मैचें/NN दी/PSP मेजबानी/NN कीती/VM ऐ/VAUX ,/SYM जित्थै/PRP स्थानीय/JJ दर्शकें/NN ने/PSP अपनी/PRP टीमें/NN दा/PSP बड़ा/INTF उत्साह/NN कन्नै/PSP समर्थन/NN कीता/VM ऐ/VAUX ।/SYM
+जम्मू/NNP ते/CC कश्मीर/NNP उच्च/NNP न्यायालय/NNP ,/SYM जेह्ड़ा/PRP तवी/NNP नदी/NN दे/PSP कंडे/NN इक/QC प्हाड़ी/NN पर/PSP स्थित/JJ ऐ/VM ,/SYM दस्सेयां/QC ब'रें/NN थमां/PSP पूरे/JJ खेतर/NN आस्तै/PSP न्याय/NN दा/PSP मुक्ख/JJ केंदर/NN रेहा/VM ऐ/VAUX ।/SYM
+पारंपरिक/JJ डोगरा/NNP गैह्-ने/NN बनाने/VM दा/PSP कम्म/NN ,/SYM जिसदे/PRP च/PSP बड़ी/INTF बारीक/JJ कारीगरी/NN दी/PSP लोड़/NN पौंदी/VAUX ऐ/VAUX ,/SYM कई/QF पीड़ियें/NN थमां/PSP परिबारें/NN च/PSP चलदा/VM आई/VAUX रिया/VAUX ऐ/VAUX ।/SYM
+प्रदेश/NN दे/PSP बक्ख-बक्ख/JJ हिस्सें/NN थमां/PSP विद्यार्थी/NN उच्च/JJ शिक्षा/NN हासल/NN करने/VM आस्तै/PSP जम्मू/NNP विश्वविद्यालय/NNP च/PSP औंदे/VM न/VAUX ,/SYM जिसदे/PRP कन्नै/PSP कैंपस/NN च/PSP इक/QC सांस्कृतिक/JJ रूप/NN कन्नै/PSP बन्न-सुबन्ना/JJ माहौल/NN बनदा/VM ऐ/VAUX ।/SYM
+भामें/CC शैह्-र/NN च/PSP आधुनिक/JJ अस्पताल/NN बनी/VM गे/VAUX न/VAUX ,/SYM पर/CC ग्रांएं/NN च/PSP मते/QF सारे/QF लोक/NN अजें/NN बी/RP लौह्कियां/JJ बीमारियें/NN आस्तै/PSP पराने/JJ जड़ी-बूटियें/NN पर/PSP भरोसा/NN करदे/VM न/VAUX ।/SYM
+पर्यावरण/NN कन्नै/PSP जुड़ी/JJ संस्थां/NN लोकें/NN गी/PSP बधदे/VM प्रदूषण/NN थमां/PSP तवी/NNP नदी/NN गी/PSP बचाने/VM आस्तै/PSP लगातार/RB जागरूक/JJ करदियां/VM न/VAUX ,/SYM जेह्ड़ी/PRP शैह्-र/NN दी/PSP जीवन-रेखा/NN ऐ/VM ।/SYM
+किश्तवाड़/NNP दा/PSP केसर/NN ,/SYM जेह्ड़ा/PRP अपनी/PRP अनोखी/JJ खुशबू/NN ते/CC रंग/NN आस्तै/PSP दुनिया/NN भर/NN च/PSP मशहूर/JJ ऐ/VM ,/SYM उस/DEM खेतर/NN दे/PSP किसानें/NN आस्तै/PSP इक/QC बड़ी/INTF कीमती/JJ फसल/NN मन्नेआ/VM जंदा/VAUX ऐ/VAUX ।/SYM
+सरकारी/JJ स्कूलें/NN च/PSP शिक्षा/NN दा/PSP स्तर/NN सुधारने/VM आस्तै/PSP ,/SYM प्रशासन/NN ने/PSP अध्यापकें/NN आस्तै/PSP नमें/JJ प्रशिक्षण/NN कार्यक्रम/NN शुरू/NN कीते/VM न/VAUX ते/CC स्मार्ट/NNP क्लासरूम/NN बी/RP उपलब्ध/JJ करोआंदे/VM न/VAUX ।/SYM
+स्थानीय/JJ मैटाडोरें/NN च/PSP सफर/NN करना/VM अपने/PRP आप/PRP च/PSP इक/QC अनोखा/JJ अनुभव/NN ऐ/VM ,/SYM जित्थै/PRP तुसेंगी/PRP बक्ख-बक्ख/JJ विशें/NN पर/PSP लोकें/NN दी/PSP गल्लें/NN कन्नै/PSP उच्ची/JJ अवाज/NN च/PSP संगीत/NN बी/RP सुनने/VM गी/PSP मिलदा/VAUX ऐ/VAUX ।/SYM
+इक/QC पराने/JJ डोगरा/NNP लोक-कथा/NN दे/PSP मुताबिक/PSP ,/SYM बावे/NNP आह्-ली/ADJ माता/NNP देवी/NNP गी/PSP पूरे/JJ जम्मू/NNP शैह्-र/NN दा/PSP संकटें/NN थमां/PSP रक्षक/NN मन्नेआ/VM जंदा/VAUX ऐ/VAUX ।/SYM
+दिवाली/NNP दा/PSP त्यौहार/NN नेड़ै/NST औने/VM कन्नै/PSP ,/SYM शैह्-र/NN दे/PSP बजार/NN रंग-बिरंगी/JJ बत्तियें/NN कन्नै/PSP सजी/VM गे/VAUX न/VAUX ते/CC हट्टियें/NN पर/PSP बड़ी/INTF चहल-पहल/NN बधी/VM गेई/VAUX ऐ/VAUX ।/SYM
+अक्टूबर/NNP दे/PSP म्‍हीने/NN च/PSP जम्मू/NNP दी/PSP सञां/NN बड़ी/INTF सुहानी/JJ होंदी/VAUX ऐ/VAUX ,/SYM कींजे/CC गर्मी/NN दी/PSP तपन/NN घटी/VM जंदी/VAUX ऐ/VAUX ते/CC हवा/NN च/PSP हल्की/JJ ठंडक/NN महसूस/NN होंदी/VAUX ऐ/VAUX ।/SYM
+मेरा/PRP घर/NN जम्मू/NNP च/PSP ऐ/VM ।/SYM
+ओह्/PRP मरी/ADJ गेआ/VAUX ऐ/VAUX ।/SYM
+नमस्ते/INTF ,/SYM तुस/PRP ठीक/JJ ओ/VAUX ?/SYM
+केह्/WQ हाल/NN ऐ/VAUX ?/SYM
+मेरा/PRP नांऽ/NN सोहन/NNP ऐ/VM ।/SYM
+तुंदा/PRP घर/NN कुत्थै/WQ ऐ/VM ?/SYM
+अज्ज/NN मौसम/NN बड़ा/INTF सुहाना/JJ ऐ/VM ।/SYM
+अंबर/NN नीला/JJ ऐ/VM ।/SYM
+बच्चे/NN मैदान/NN च/PSP खेडदे/VM न/VAUX ।/SYM
+जम्मू/NNP इक/QC सोह्ना/JJ शैह्-र/NN ऐ/VM ।/SYM
+तवी/NNP नदी/NN जम्मू/NNP दे/PSP बिच्चा/PSP बग्गदी/VM ऐ/VAUX ।/SYM
+बाहु/NNP किला/NN बड़ा/INTF पराना/JJ किला/NN ऐ/VM ।/SYM
+रघुनाथ/NNP मंदर/NN उत्तर/NNP भारत/NNP च/PSP मशहूर/JJ ऐ/VM ।/SYM
+अपने/PRP बच्चें/NN दे/PSP उज्ज्वल/JJ भविष्य/NN ते/CC समाज/NN दी/PSP तरक्की/NN आस्तै/PSP एह्/PRP बड़ा/INTF जरूरी/JJ ऐ/VM जे/CC उʼनेंगी/PRP चंगी/JJ शिक्षा/NN मिलै/VM ते/CC ओह्/PRP नमें/JJ हुनर/NN बी/RP सिक्खन/VM ।/SYM
+बैसाखी/NNP दे/PSP त्यौहार/NN पर/PSP लोक/NN तवी/NNP नदी/NN च/PSP पवित्र/JJ स्नान/NN करने/VM जांदे/VAUX न/VAUX ते/CC नमें/JJ कपड़े/NN पाईयै/VM फसल/NN दा/PSP जश्न/NN लोक-गीतें/NN कन्नै/PSP मनांदे/VM न/VAUX ।/SYM
+आधुनिक/JJ मोबाइल/NN फोनें/NN ते/CC इंटरनेट/NN दी/PSP बजा/NN कन्नै/PSP हून/RB दुनिया/NN भर/NN दी/PSP खबरें/NN प्हाड़ें/NN दे/PSP दूर-दराज/JJ ग्रांएं/NN तिक्कर/PSP बी/RP किश/QF पलें/NN च/PSP पुज्जी/VM जंदियां/VAUX न/VAUX ।/SYM
+जम्मू/NNP ते/CC कश्मीर/NNP रियासत/NN दे/PSP संस्थापक/NN महाराजा/NNP गुलाब/NNP सिंह/NNP इक/QC बड़े/INTF बहादुर/JJ ते/CC दूरदर्शी/JJ शासक/NN हे/VAUX जिʼने/PRP केईं/QF लौह्कियां/JJ रियासतें/NN गी/PSP इक/QC कीता/VM हा/VAUX ।/SYM
+पत्नीटॉप/NNP दी/PSP उच्चियां/JJ चोटियें/NN थमां/PSP पीर/NNP पंजाल/NNP श्रृंखला/NN दे/PSP बर्फीले/JJ प्हाड़/NN बड़े/INTF सोह्ने/JJ लग्गदे/VM न/VAUX ,/SYM खास/JJ करियै/VM जिस/PRP बेल्लै/NN सूरज/NNP दियां/PSP किरणां/NN उʼनें/PRP पर/PSP पौंदियां/VM न/VAUX ।/SYM
+इस/DEM ब'रै/NN बेमौसम/JJ बरखा/NN ते/CC गੜਿਆਂ/NN कन्नै/PSP किसानें/NN दी/PSP खड़ी/JJ कनक/NN दी/PSP फसल/NN गी/PSP बड़ा/INTF नुकसान/NN पुज्जेआ/VM ऐ/VAUX ,/SYM जिस/PRP कन्नै/PSP उʼंदी/PRP चिंता/NN बधी/VM गेई/VAUX ऐ/VAUX ।/SYM
+ग्रांऽ/NN दे/PSP मेले/NN च/PSP गबरूएं/NN ते/CC मुटियारें/NN अपनी/PRP पारंपरिक/JJ पोशाकें/NN च/PSP मशहूर/JJ कुड/NNP नाच/NN पेश/NN कीता/VM जिसने/PRP उत्थै/PRP मौजूद/JJ हर/QF कुसै/PRP दा/PSP मन/NN मोही/VM लैता/VAUX ।/SYM
+दूर-दराज/JJ प्हाड़ी/JJ इलाकें/NN गी/PSP मुक्ख/JJ शैह्-र/NN कन्नै/PSP जोड़ने/VM आस्तै/PSP सरकार/NN चिनाब/NNP नदी/NN पर/PSP इक/QC चौड़ी/JJ सिड़क/NN ते/CC इक/QC लंबा/JJ पुल/NN बनाई/VM रਹੀ/VAUX ऐ/VAUX ।/SYM
+जम्मू/NNP दे/PSP पराने/JJ शैह्-र/NN दी/PSP तंग/JJ गलियें/NN च/PSP तुस/PRP आसानी/NN कन्नै/PSP दिक्खी/VM सकदे/VAUX ओ/VAUX जे/CC कि'यां/WQ पराचीन/JJ मंदर/NN ते/CC आधुनिक/JJ हट्टियां/NN इकट्ठे/JJ मौजूद/JJ न/VM ।/SYM
+मशहूर/JJ डोगरी/NNP पकवान/NN अंबल/NNP बनाने/VM आस्तै/PSP पैह्-लें/RB इमली/NN ते/CC गुड़/NN गी/PSP पानी/NN च/PSP उबालेआ/VM जंदा/VAUX ऐ/VAUX ते/CC फ्ही/RB उसदे/PRP च/PSP कद्दू/NN दे/PSP टुकड़े/NN मसाले/NN पाईयै/VM पकाए/VM जंदे/VAUX न/VAUX ।/SYM
+मुबारक/NNP मंडी/NNP मैह्-ल/NN परिसर/NN ,/SYM जेह्ड़ा/PRP मते/QF समें/NN तिक्कर/PSP मुक्ख/JJ शाही/JJ निवास/NN हा/VM ,/SYM अपनी/PRP बक्ख-बक्ख/JJ इमारतें/NN च/PSP राजस्थानी/NNP ,/SYM मुगल/NNP ते/CC यूरोपीय/JJ वास्तुकला/NN दा/PSP सोह्ना/JJ संगम/NN दस्सदा/VM ऐ/VAUX ।/SYM
+हर/QF ब'रै/NN ,/SYM लक्खें/QC शरधालू/NN अपने/PRP मन/NN च/PSP डुग्गी/JJ आस्था/NN रक्खी/VM माता/NNP वैष्णो/NNP देवी/NNP दी/PSP पवित्तर/JJ गुफा/NN आस्तै/PSP जयकारे/NN लांदे/VM होई/VM औखी/JJ चढ़ाई/NN करदे/VM न/VAUX ।/SYM
+चेनानी-नाशरी/NNP सुरंग/NN दे/PSP निर्माण/NN कन्नै/PSP जम्मू/NNP ते/CC श्रीनगर/NNP बिच्च/PSP सफर/NN दा/PSP समां/NN काफी/QF घटी/VM गेआ/VAUX ऐ/VAUX ,/SYM जिसदे/PRP कन्नै/PSP जात्तरियें/NN गी/PSP ,/SYM खास/JJ करियै/VM सियालें/NN च/PSP ,/SYM बड़ी/INTF राहत/NN मिली/VM ऐ/VAUX ।/SYM
+डोगरा/NNP कला/NN अपनी/PRP पहाड़ी/NNP लघु/JJ चित्तरकला/NN आस्तै/PSP खास/JJ तौर/NN पर/PSP मशहूर/JJ ऐ/VM ,/SYM जित्थै/PRP बड़ी/INTF बारीक/JJ कूची/NN कन्नै/PSP धार्मिक/JJ क्हानियां/NN ते/CC राजें/NN दे/PSP जीवन/NN गी/PSP दर्शाया/VM गेआ/VAUX ऐ/VAUX ।/SYM
+असली/JJ पश्मीना/NNP शॉल/NN बुनना/VM इक/QC बड़ा/INTF जटिल/JJ हुनर/NN ऐ/VM ,/SYM जित्थै/PRP माहिर/JJ कारीगर/NN म्‍हीनेयां/NN तिक्कर/PSP हत्थ-खड्डी/NN पर/PSP नाजुक/JJ धागें/NN पर/PSP ध्यान/NN कन्नै/PSP कम्म/NN करदे/VM न/VAUX ।/SYM
+अज्ज-कल/NN दे/PSP डोगरा/NNP घरें/NN च/PSP तुसेंगी/PRP इक/QC अनोखा/JJ मेल/NN दिक्खने/VM गी/PSP मिलदा/VAUX ऐ/VAUX ,/SYM जित्थै/PRP नमीं/JJ पीढ़ी/NN आधुनिक/JJ उपकरणें/NN दी/PSP बरतूं/NN करदी/VM ऐ/VAUX पर/CC पराने/JJ रीत-रिवाजें/NN दा/PSP बी/RP पालन/NN करदी/VM ऐ/VAUX ।/SYM
+दौनें/QC बड्डे/JJ ग्रांएं/NN बिच्च/PSP अंतिम/JJ क्रिकेट/NNP मैच/NN दा/PSP रोमांच/NN दिक्खने/VM आह्-ला/ADJ हा/VM ,/SYM कींजे/CC पूरी/JJ भीड़/NN हर/QF चौके/NN ते/CC छक्के/NN पर/PSP जोर-जोर/RB कन्नै/PSP रौला/NN पांदी/VM ही/VAUX ।/SYM
+सञां/NN गी/PSP जिस/PRP बेल्लै/NN रघुनाथ/NNP मंदर/NN परिसर/NN थमां/PSP होंदी/VM भव्य/JJ आरती/NN दी/PSP अवाज/NN नेड़ै/NST दे/PSP बजारें/NN च/PSP गूंजदी/VM ऐ/VAUX तां/CC सारा/JJ माहौल/NN भक्तिमय/JJ होई/VM जंदा/VAUX ऐ/VAUX ।/SYM
+ओह्/PRP कल/NN इत्थै/PRP औग/VAUX ।/SYM
+
+
