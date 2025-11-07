@@ -353,40 +353,40 @@
 रोज/NST अखबार/NN पढ़्या/VM करा/VAUX ।/SYM
 समां/NN सिर/NST रोटी/NN खाया/VM करा/VAUX ।/SYM
 तुस/PRP थोड़ी/QF देर/NN आराम/NN कीता/VM करा/VAUX ।/SYM
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+तूं/PRP किहड़े/QC गांव/NN तों/PSP आया/VM ऐ/VAUX ?/SYM
+ओह/PRP किताब/NN बड़ी/JJ रोचक/JJ ऐ/VAUX ।/SYM
+राधा/NNP रोज़/NN स्कूल/NN जांदी/VM ऐ/VAUX ।/SYM
+सूरज/NN आज/NN बहुत/JJ तेज़/JJ चमकदा/VM ऐ/VAUX ।/SYM
+साडे/PRP खेतां/NN विच्च/PSP गेहूं/NN लग्गी/VM ऐ/VAUX ।/SYM
+ओहना/PRP ने/PSP नवा/JJ घर/NN बनायआ/VM ऐ/VAUX ।/SYM
+बच्चा/NN दूध/NN पी/VM रया/VAUX ऐ/VAUX ।/SYM
+मैं/PRP कले/ADV बाजार/NN ग्या/VM सि/VAUX ।/SYM
+ए/DEM मेरी/PRP पसंदीदा/JJ फिल्म/NN ऐ/VAUX ।/SYM
+ओह/PRP थक्गया/VM लगदा/VAUX ऐ/VAUX ।/SYM
+साडे/PRP शहर/NN विच्च/PSP बरसात/NN पै/VM रही/VAUX ऐ/VAUX ।/SYM
+अज्ज/NNP मौसम/NN सुहाणा/JJ ऐ/VAUX ।/SYM
+मैं/PRP तेरे/PRP नाल/PSP चल्ला/VM आं/VAUX ।/SYM
+ओह/PRP रोटी/NN बनांदी/VM ऐ/VAUX हर/QC दिन/NN ।/SYM
+साडे/PRP घऱ/NN दे/PSP अग्गे/PSP बगीचा/NN ऐ/VAUX ।/SYM
+तूं/PRP एनी/JJ जल्दी/ADV किमें/ADV उठ्गया/VM ?/SYM
+मैं/PRP कॉलेज/NN विच्च/PSP पढ़ाई/NN करदा/VM आं/VAUX ।/SYM
+ओह/PRP बहुत/JJ होशियार/JJ लड़का/NN ऐ/VAUX ।/SYM
+अज्ज/NN मैं/PRP छुट्टी/NN लई/VM ऐ/VAUX ।/SYM
+साडा/PRP कुत्ता/NN बहुत/JJ वफादार/JJ ऐ/VAUX ।/SYM
+ओह/PRP दूध/NN लेण/VM गया/VAUX ऐ/VAUX ।/SYM
+मैं/PRP कल/NN किताब/NN खरीद/VM ली/VAUX ।/SYM
+ओह/PRP पिओ/NN खेत/NN विच्च/PSP कम्म/NN करदा/VM ऐ/VAUX ।/SYM
+तूं/PRP की/QW सोचदा/VM ऐ/VAUX ?/SYM
+साडे/PRP नाले/NN विच्च/PSP पानी/NN वग्ग/VM रया/VAUX ऐ/VAUX ।/SYM
+मैं/PRP ओस/PRP दी/PSP मदद/NN किती/VM ।/SYM
+ए/DEM फूल/NN बहुत/JJ सुन्दर/JJ ने/VAUX ।/SYM
+अज्ज/NN सवेरे/NN ओह/PRP उठया/VM सि/VAUX ।/SYM
+तूं/PRP खाना/NN खा/VM ल्या/VAUX ?/SYM
+तुस/PRP साढ़े/PRP घर/NN आया/VM करा/VAUX ।/SYM
+हुन/NST मैं/PRP केह्/WQ करा/VM ?/SYM
+रोज/NST अखबार/NN पढ़्या/VM करा/VAUX ।/SYM
+समां/NN सिर/NST रोटी/NN खाया/VM करा/VAUX ।/SYM
+तुस/PRP थोड़ी/QF देर/NN आराम/NN कीता/VM करा/VAUX ।/SYM
 
 
 
