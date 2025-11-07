@@ -111,28 +111,28 @@
 भारत/NNP दा/PSP संविधान/NN 26/QC जनवरी/NNP 1950/QC गी/PSP लागू/JJ कीता/VM गेआ/VAUX हा/VAUX ।/SYM
 शिवाजी/NNP महाराज/NNP ने/PSP 17मीं/NNP सदी/NNP च/PSP मराठा/NNP साम्राज्य/NN दी/PSP नीं/NN रक्खी/VM ही/VAUX ।/SYM
 जलियांवाला/NNP बाग/NNP दा/PSP नरसंहार/NN 1919/QC च/PSP अमृतसर/NNP च/PSP होआ/VM हा/VAUX ।/SYM
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     
- 
-
+भारतीय/JJ इतिहास/NN बड़ा/INTF पुराना/JJ ते/CC दिलचस्प/JJ ऐ/VM ।/SYM
+मौर्य/NNP साम्राज्य/NN इक/QC विशाल/JJ ते/CC शक्तिशाली/JJ साम्राज्य/NN हा/VM ।/SYM 
+अजंता/NNP दी/PSP गुफाएं/NN च/PSP प्राचीन/JJ ते/CC सुंदर/JJ चित्र/NN न/VM ।/SYM
+भारत/NNP दी/PSP अजादी/NN दी/PSP लड़ाई/NN सिर्फ/RB इक/QC घटना/NN नेईं/NEG ही/VM ,/SYM बल्के/CC एह्/PRP लम्मे/JJ समें/NN तक्कर/PSP चलने/VM आह्-ला/ADJ इक/QC ऐसा/DEM संघर्ष/NN हा/VM जिसने/PRP पूरे/JJ देश/NN गी/PSP इक/QC सूत्र/NN च/PSP बनी/VM रक्खेआ/VM हा/VAUX ।/SYM
+हिमालय/NNP दी/PSP गोद/NN च/PSP बसे/VM दे/PSP इस/DEM लौह्के/JJ जनेह्/RP ग्रांऽ/NN दी/PSP कुदरती/JJ सुंदरता/NN ते/CC शांत/JJ माहौल/NN शैह्-र/NN दे/PSP रौले-रप्पे/NN कोला/PSP दूर/NST सैलानियें/NN गी/PSP अपनी/PRP तरफ/NST आकर्षित/VM करदा/VM ऐ/VAUX ।/SYM
+जेकर/CC तुस/PRP ध्यान/NN कन्नै/PSP दिखोगे/VM तां/CC तुसेंगी/PRP पता/NN चलग/VM जे/CC इस/DEM पुरानी/JJ हवेली/NN दी/PSP हर/QF इक/QC इट्ट/NN अपने/PRP आप/PRP च/PSP इतिहास/NN दी/PSP इक/QC बक्खरी/JJ क्हानी/NN सुनांदी/VM ऐ/VAUX ।/SYM
+पिछले/JJ किश/QF दहाकें/NN च/PSP विज्ञान/NN ते/CC तकनीक/NN दे/PSP खेतर/NN च/PSP होई/VM दी/PSP तरक्की/NN ने/PSP आम/JJ आदमी/NN दे/PSP जीवन/NN गी/PSP पैह्-लें/NST दे/PSP मुकाबले/PSP काफी/QF आसान/JJ ते/CC आरामदायक/JJ बनाई/VM दित्ता/VM ऐ/VAUX ।/SYM
+साढ़ी/PRP डोगरा/NNP संस्कृति/NN च/PSP ब्याह्-शादी/NN दे/PSP मौके/NN पर/PSP गाए/VM जाने/VM आह्-ले/ADJ लोक-गीत/NN ना/NEG सिर्फ/RB मनोरंजन/NN करदे/VM न/VAUX ,/SYM बल्के/CC नमें/JJ रिश्ते/NN च/PSP बज्झने/VM आह्-ले/ADJ लोकें/NN गी/PSP सियॉनप/NN बी/RP दिंदे/VM न/VAUX ।/SYM
+सिंधु/NNP घाटी/NNP सभ्यता/NN दे/PSP दौरान/PSP शैह्-रें/NN दी/PSP योजना/NN एह्नी/INTF विकसित/JJ ही/VM जे/CC उ'नेंदे/PRP नाली/NN तंत्र/NN ते/CC पक्के/JJ घरें/NN गी/PSP दिक्खियै/VM अज्ज/NN दे/PSP इंजीनियर/NN बी/RP हैरान/JJ रेई/VM जांदे/VAUX न/VAUX ।/SYM
+बरसात/NN दे/PSP मौसम/NN च/PSP अगर/CC समां/NN सिर/NST बारिश/NN नेईं/NEG होऐ/VM तां/CC किसानें/NN दे/PSP चेहरे/NN पर/PSP चिंता/NN दी/PSP लकीरां/NN साफ/JJ दिक्खी/VM जाई/VAUX सकदियां/VAUX न/VAUX ,/SYM कींजे/CC उ'न्दी/PRP पूरी/JJ साल/NN दी/PSP मैह्-नत/NN इस/DEM पर/PSP निर्भर/JJ करदी/VM ऐ/VAUX ।/SYM
+अज्ज/NN दे/PSP कंपीटीशन/NN आह्-ले/ADJ दौर/NN च/PSP सिर्फ/RB किताबी/JJ ज्ञान/NN गै/RP काफी/QF नेईं/NEG ऐ/VM ,/SYM बल्के/CC बच्चें/NN गी/PSP व्यावहारिक/JJ कौशल/NN ते/CC नैतिक/JJ मूल्यें/NN दी/PSP शिक्षा/NN देना/VM बी/RP ओह्-ना/DEM गै/RP जरूरी/JJ ऐ/VM ।/SYM
+महाराजा/NNP रणजीत/NNP सिंह/NNP ने/PSP अपने/PRP शासनकाल/NN दे/PSP दौरान/PSP पंजाब/NNP गी/PSP इक/QC शक्तिशाली/JJ राज्य/NN बनाया/VM ते/CC हर/QF धर्म/NN दे/PSP लोकें/NN कन्नै/PSP बराबरी/NN दा/PSP बर्ताव/NN कीता/VM ,/SYM जेह्-ड़ा/PRP उ'न्दी/PRP कामयाबी/NN दा/PSP बड्डा/JJ कारण/NN हा/VM ।/SYM
+दक्षिण/NNP भारत/NNP दे/PSP प्राचीं/JJ मंदरें/NN दी/PSP वास्तुकला/NN ,/SYM खास/JJ करियै/VM उ'नेंदे/PRP उच्चे/JJ गोपुरम/NN ते/CC बारीक/JJ नक्काशी/NN ,/SYM दुनिया/NN भर/NN दे/PSP वास्तुकारें/NN आस्तै/PSP इक/QC अजूबे/NN कोला/PSP घट्ट/QF नेईं/NEG न/VM ।/SYM
+बसंत/NNP पंचमी/NNP दा/PSP त्यौहार/NN औंदे/VM गै/RP चारें/QC पास्सै/NST पीलें/JJ रंग/NN दे/PSP फੁੱल/NN खिरी/VM जांदे/VAUX न/VAUX ते/CC लोक/NN माता/NNP सरस्वती/NNP दी/PSP पूजा/NN करियै/VM ज्ञान/NN ते/CC बुद्धि/NN दा/PSP वरदान/NN मंगदे/VM न/VAUX ।/SYM
+समाज/NN च/PSP बदलाव/NN ल्याउने/VM आस्तै/PSP एह्/PRP जरूरी/JJ ऐ/VM जे/CC अस/PRP परानियां/JJ रूढ़िवादी/JJ सोचें/NN गी/PSP छोड़ियै/VM नमीं/JJ ते/CC वैज्ञानिक/JJ सोच/NN गी/PSP अपनाचे/VM ,/SYM तां/CC जे/CC तरक्की/NN दे/PSP रस्ते/NN पर/PSP अग्गें/NST बधी/VM सकचे/VAUX ।/SYM
+लम्मे/JJ सफर/NN दे/PSP दौरान/PSP रेलगड्डी/NN दी/PSP खिड़की/NN कोला/PSP बाह्-र/NST दिक्खना/VM ते/CC बदलदे/VM नजारे/NN ,/SYM बक्ख-बक्ख/JJ तरह/NN दे/PSP लोक/NN ते/CC उ'नेंदा/PRP रैह्-न-सैह्-न/NN दिक्खना/VM इक/QC बक्खरा/JJ गै/RP तजरबा/NN होंदा/VM ऐ/VAUX ।/SYM
+मुगल/NNP बादशाह/NNP शाहजहां/NNP ने/PSP अपनी/PRP बेगम/NNP मुमताज/NNP मैह्-ल/NNP दी/PSP याद/NN च/PSP ताजमहल/NNP बनोआया/VM हा/VAUX ,/SYM जेह्-ड़ा/PRP अज्ज/NN दुनिया/NN दे/PSP सत्त/QC अजूबें/NN बिच्चा/PSP इक/QC मन्नेआ/VM जंदा/VAUX ऐ/VAUX ते/CC प्रेम/NN दी/PSP निशानी/NN ऐ/VM ।/SYM
 कुदरती/JJ सुंदरता/NN कन्नै/PSP भरोचे/JJ दे/PSP इस/DEM शैह्-र/NN च/PSP तुस/PRP स्विट्ज़रलैंड/NNP दे/PSP इतिहास/NN ते/CC वर्तमान/NN दौनें/QC गी/PSP दिक्खी/VM सकदे/VAUX ओ/VAUX ।/SYM
 जेकर/CC तुंʼदे/PRP कोल/NST थोह्ड़ा/QF समां/NN ते/CC हिम्मत/NN ऐ/VM तां/CC सूरज/NN  चढ़दे/VM बेल्लै/PSP इत्थै/PRP प्हाड़ें/NN पर/PSP चलना/NN बड़ा/INTF सुखद/JJ होंदा/VAUX ऐ/VAUX ।/SYM 
-
-
-
+मुंशी/NNP प्रेमचंद/NNP जी/RP दियां/PSP क्हानियां/NN भारतीय/JJ ग्रांएं/NN दी/PSP असली/JJ तस्वीर/NN पेश/JJ करदियां/VM न/VAUX ,/SYM जि'नें/PRP च/PSP गरीब/JJ किसानें/NN ते/CC आम/JJ लोकें/NN दे/PSP दुख-दर्द/NN गी/PSP बड़ी/INTF गहराई/NN कन्नै/PSP ब्यान/NN कीता/VM गेआ/VAUX ऐ/VAUX ।/SYM
+बधदे/VM प्रदूषण/NN ते/CC ग्लोबल/NNP वार्मिंग/NNP दे/PSP खतरे/NN गी/PSP दिक्खदे/VM होई/VAUX ,/SYM एह्/PRP साढ़ा/PRP सारें/QF दा/PSP फर्ज/NN बनदा/VM ऐ/VAUX जे/CC अस/PRP अपने/PRP आस-पास/NST दे/PSP वातावरण/NN गी/PSP साफ-सुथरा/JJ रक्खचे/VM ते/CC मते/QF कोला/PSP मते/QF रूख/NN लाचे/VM ।/SYM
+भारतीय/JJ संविधान/NN ने/PSP हर/QF नागरिक/NN गी/PSP बराबरी/NN दा/PSP अधिकार/NN दित्ता/VM ऐ/VAUX ,/SYM चाहे/CC ओह्/PRP कुसै/PRP बी/RP धर्म/NN ,/SYM जाति/NN जां/CC लिंग/NN दा/PSP होऐ/VM ,/SYM एह्/PRP साढ़े/PRP लोकतंत्र/NN दी/PSP सभनें/INTF शा/PSP बड्डी/JJ खूबी/NN ऐ/VM ।/SYM
 फोन/NN बजदा/VM ऐ/VAUX ।/SYM
 पक्खरू/NN उड़दा/VM ऐ/VAUX ।/SYM
 साफ/JJ कपड़े/NN पाओ/VM ।/SYM
@@ -216,5 +216,36 @@
 दौनें/QC बड्डे/JJ ग्रांएं/NN बिच्च/PSP अंतिम/JJ क्रिकेट/NNP मैच/NN दा/PSP रोमांच/NN दिक्खने/VM आह्-ला/ADJ हा/VM ,/SYM कींजे/CC पूरी/JJ भीड़/NN हर/QF चौके/NN ते/CC छक्के/NN पर/PSP जोर-जोर/RB कन्नै/PSP रौला/NN पांदी/VM ही/VAUX ।/SYM
 सञां/NN गी/PSP जिस/PRP बेल्लै/NN रघुनाथ/NNP मंदर/NN परिसर/NN थमां/PSP होंदी/VM भव्य/JJ आरती/NN दी/PSP अवाज/NN नेड़ै/NST दे/PSP बजारें/NN च/PSP गूंजदी/VM ऐ/VAUX तां/CC सारा/JJ माहौल/NN भक्तिमय/JJ होई/VM जंदा/VAUX ऐ/VAUX ।/SYM
 ओह्/PRP कल/NN इत्थै/PRP औग/VAUX ।/SYM
-
-
+डोगरी/NNP भाशा/NN दी/PSP मिठास/NN इसदे/PRP लोक-साहित्य/NN च/PSP साफ/JJ झलकदी/VM ऐ/VAUX ,/SYM जित्थै/PRP हर/QF शब्द/NN च/PSP अपनेपन/NN दा/PSP अहसास/NN होंदा/VM ऐ/VAUX ते/CC सुनने/VM आह्-ले/ADJ दे/PSP दिल/NN गी/PSP छुही/VM लैंदा/VAUX ऐ/VAUX ।/SYM
+कलिंग/NNP दे/PSP जुद्ध/NN च/PSP होई/VM दी/PSP भारी/JJ तबाही/NN ते/CC खून-खराबे/NN गी/PSP दिक्खियै/VM सम्राट/NN अशोक/NNP दा/PSP मन/NN एह्ना/INTF दुखी/JJ होआ/VM जे/CC उ'नें/PRP हमेशा/RB आस्तै/PSP हिंसा/NN दा/PSP रस्ता/NN छोड़ी/VM दित्ता/VAUX ।/SYM
+जदूं/RB बी/RP ओह्/PRP अपने/PRP पुराने/JJ स्कूल/NN दे/PSP सामनें/NST थमां/PSP लंगदा/VM ऐ/VAUX तां/CC उसगी/PRP अपने/PRP बचपन/NN दे/PSP दिन/NN याद/NN आई/VM जांदे/VAUX न/VAUX ,/SYM जदूं/RB ओह्/PRP अपने/PRP दोस्तें/NN कन्नै/PSP बिना/PSP कुसै/PRP फिकर/NN दे/PSP खेडेआ/VM करदा/VAUX हा/VAUX ।/SYM
+अंतरिक्ष/NN विज्ञान/NN दे/PSP खेतर/NN च/PSP भारत/NNP ने/PSP जो/PRP तरक्की/NN कीती/VM ऐ/VAUX ,/SYM खास/JJ करियै/VM मंगलयान/NNP ते/CC चंद्रयान/NNP मिशन/NN दी/PSP कामयाबी/NN कन्नै/PSP ,/SYM उसने/PRP पूरी/JJ दुनिया/NN च/PSP देश/NN दा/PSP सिर/NN उच्चा/JJ कीता/VM ऐ/VAUX ।/SYM
+जम्मू/NNP दे/PSP मशहूर/JJ व्यंजनें/NN च/PSP 'राजमाश-चौळ'/NNP दा/PSP नांऽ/NN सभनें/INTF शा/PSP उप्पर/NST औंदा/VM ऐ/VAUX ,/SYM जि'नेंदा/PRP स्वाद/NN देसी/JJ घिउ/NN ते/CC अनारदाने/NN दी/PSP चटनी/NN कन्नै/PSP होर/QF बी/RP बधी/VM जंदा/VAUX ऐ/VAUX ।/SYM
+रानी/NNP लक्ष्मीबाई/NNP ने/PSP 1857/QC दी/PSP क्रांति/NN च/PSP अपनी/PRP अद्भुत/JJ वीरता/NN दा/PSP परिचय/NN दिंदे/VM होई/VAUX अंग्रेजी/JJ सेना/NN दा/PSP डटियै/VM मुकाबला/NN कीता/VM ते/CC इतिहास/NN दे/PSP पन्नें/NN च/PSP अमर/JJ होई/VM गेईयां/VAUX ।/SYM
+कींजे/CC उसनें/PRP पूरे/JJ साल/NN मैह्-नत/NN कन्नै/PSP पढ़ाई/NN नेईं/NEG कीती/VM ही/VAUX ,/SYM इस/DEM करियै/PSP परीखिआ/NN दे/PSP नतीजे/NN औने/VM पर/PSP उसगी/PRP घट्ट/QF नंबरें/NN दी/PSP बजा/NN कन्नै/PSP शर्मिंदा/JJ होना/VM पेआ/VM ।/SYM
+हत्थें/NN कन्नै/PSP बने/VM दी/PSP चीजें/NN ,/SYM जियां/RP जे/CC कश्मीरी/JJ शॉल/NN ते/CC लकड़ी/NN दी/PSP नक्काशी/NN ,/SYM ना/NEG सिर्फ/RB सोह्नी/JJ होंदी/VM ऐ/VAUX बल्के/CC एह्/PRP कारीगरें/NN दी/PSP केईं/QF पीढ़ियें/NN दी/PSP मैह्-नत/NN गी/PSP बी/RP दर्शांदी/VM ऐ/VAUX ।/SYM
+जीवन/NN च/PSP असली/JJ खुशी/NN दौलत/NN किट्ठी/JJ करने/VM कन्नै/PSP नेईं/NEG ,/SYM बल्के/CC दुए/JJ लोकें/NN दी/PSP मदद/NN करने/VM ते/CC अपने/PRP परिबार/NN कन्नै/PSP प्यार/NN ते/CC शांति/NN कन्नै/PSP रैह्-ने/VM च/PSP मिलदी/VM ऐ/VAUX ।/SYM
+प्हाड़ी/JJ इलाकें/NN च/PSP सिड़कें/NN दा/PSP निर्माण/NN करना/VM बड़ा/INTF औखा/JJ कम्म/NN ऐ/VM ,/SYM कींजे/CC इत्थै/PRP आए/JJ दिन/NN लैंडस्लाइड/NN ते/CC खराब/JJ मौसम/NN दा/PSP खतरा/NN बने/VM दा/VAUX रौंह्दा/VAUX ऐ/VAUX ,/SYM फिर/RB बी/RP इंजीनियर/NN हार/NN नेईं/NEG मनदे/VM ।/SYM
+1983/QC दा/PSP क्रिकेट/NNP वर्ल्ड/NNP कप/NNP जित्तना/VM भारतीय/JJ खेल/NN इतिहास/NN च/PSP इक/QC मील/NN दा/PSP पत्थर/NN साबत/JJ होआ/VM ,/SYM जिसने/PRP देश/NN च/PSP क्रिकेट/NN गी/PSP इक/QC धर्म/NN दी/PSP चाल्ली/NN लोकप्रिय/JJ बनाई/VM दित्ता/VAUX ।/SYM  
+उस/DEM बुजुर्ग/JJ आदमी/NN ने/PSP बच्चें/NN गी/PSP समझांदे/VM होई/VAUX आखेआ/VM जे/CC झूठ/NN बोलना/VM कदे/RB बी/RP चंगा/JJ नेईं/NEG होंदा/VM ,/SYM कींजे/CC इक/QC झूठ/NN गी/PSP छुपाने/VM आस्तै/PSP सौ/QC होर/QF झूठ/NN बोलने/VM पौंदे/VAUX न/VAUX ।/SYM
+सरकार/NN बल्लूं/PSP चलाइयां/VM गेदियां/VAUX नमीन/JJ योजनाएं/NN दा/PSP मकसद/NN ग्रांएं/NN च/PSP रैह्-ने/VM आह्-ले/ADJ गरीब/JJ लोकें/NN तक्कर/PSP पक्का/JJ मकान/NN ,/SYM साफ/JJ पानी/NN ते/CC बिजली/NN पुज्जाना/VM ऐ/VAUX तां/CC जे/CC उ'नेंदा/PRP जीवन/NN स्तर/NN सुधरी/VM सकै/VAUX ।/SYM
+आर्यभट्ट/NNP ने/PSP शून्य/NN दी/PSP खोज/NN करियै/VM गणित/NN दे/PSP खेतर/NN च/PSP क्रांति/NN ल्याई/VM ही/VAUX ।/SYM
+मुगल/NNP साम्राज्य/NN दे/PSP पतन/NN दे/PSP बाद/NST अंग्रेजें/NN ने/PSP भारत/NNP पर/PSP कब्जा/NN कीता/VM ।/SYM
+भगत/NNP सिंह/NNP इक/QC निडर/JJ क्रांतिकारी/NN हे/VM जि'नें/PRP देश/NN आस्तै/PSP जान/NN देई/VM दित्ती/VAUX ।/SYM
+नालंदा/NNP विश्वविद्यालय/NNP प्राचीन/JJ भारत/NNP च/PSP शिक्षा/NN दा/PSP इक/QC बड्डा/JJ केंदर/NN हा/VM ।/SYM
+सम्राट/NN अशोक/NNP दे/PSP शिलालेख/NN अजें/RB बी/RP देश/NN दे/PSP बक्ख-बक्ख/JJ हिस्सें/NN च/PSP मिल्लदे/VM न/VAUX ।/SYM
+चाणक्य/NNP ने/PSP अपनी/PRP नीति/NN कन्नै/PSP चंद्रगुप्त/NNP मौर्य/NNP गी/PSP राजा/NN बनाया/VM हा/VAUX ।/SYM
+1942/QC दे/PSP 'भारत/NNP छोड़ो'/NNP आंदोलन/NN ने/PSP अंग्रेजी/JJ हुकूमत/NN दी/PSP नीं/NN हिलाई/VM दित्ती/VAUX ही/VAUX ।/SYM
+हड़प्पा/NNP सभ्यता/NN दे/PSP लोक/NN बपार/NN करने/VM आस्तै/PSP दूर-दूर/NST तक्कर/PSP जांदे/VAUX हे/VAUX ।/SYM
+भक्ति/NN आंदोलन/NN ने/PSP समाज/NN च/PSP फैली/VM दी/PSP कुरीतियें/NN गी/PSP दूर/NST करने/VM दी/PSP कोशिश/NN कीती/VM ।/SYM
+महाराणा/NNP प्रताप/NNP ने/PSP हल्दीघाटी/NNP दे/PSP जुद्ध/NN च/PSP अकबर/NNP दी/PSP सेना/NN दा/PSP मुकाबला/NN कीता/VM ।/SYM
+अजंता-एलोरा/NNP दी/PSP गुफाएं/NN भारतीय/JJ कला/NN दा/PSP बेजोड़/JJ नमूना/NN पेश/JJ करदियां/VM न/VAUX ।/SYM
+रजिया/NNP सुल्तान/NNP दिल्ली/NNP दी/PSP गद्दी/NN पर/PSP बैह्-ने/VM आह्-ली/ADJ पैह्-ली/QC महिला/NN शासक/NN ही/VM ।/SYM
+विजयनगर/NNP साम्राज्य/NN दक्षिण/NNP भारत/NNP दा/PSP इक/QC बड़ा/INTF समृद्ध/JJ ते/CC शक्तिशाली/JJ राज्य/NN हा/VM ।/SYM
+स्वामी/NNP विवेकानंद/NNP ने/PSP दुनिया/NN गी/PSP भारतीय/JJ दर्शन/NN ते/CC आध्यात्म/NN कन्नै/PSP रूबरू/JJ करोआया/VM ।/SYM
+सुभाष/NNP चंद्र/NNP बोस/NNP ने/PSP 'आजाद/NNP हिंद/NNP फौज'/NNP दा/PSP गठन/NN करियै/VM अंग्रेजें/NN गी/PSP चुनौती/NN दित्ती/VM ।/SYM
+लाल/NNP किला/NNP मुगल/NNP बादशाह/NNP शाहजहां/NNP ने/PSP अपनी/PRP राजधानी/NN शाहजहांनाबाद/NNP आस्तै/PSP बनोआया/VM हा/VAUX ।/SYM
+पानीपत/NNP दी/PSP त्रै/QC लड़ाइयें/NN ने/PSP भारत/NNP दे/PSP इतिहास/NN गी/PSP बड्डी/INTF गहराई/NN कन्नै/PSP प्रभावित/JJ कीता/VM ।/SYM
+चरखा/NN चलाणा/VM गांधी/NNP जी/RP दे/PSP स्वदेशी/JJ आंदोलन/NN दा/PSP इक/QC अहम/JJ हिस्सा/NN बन/VM गेआ/VAUX हा/VAUX ।/SYM
+भीमराव/NNP अंबेडकर/NNP जी/RP ने/PSP भारतीय/JJ संविधान/NN दा/PSP मसौदा/NN तैयार/JJ करने/VM च/PSP मुक्ख/JJ भूमिका/NN निभाई/VM ।/SYM
+लोथल/NNP सिंधु/NNP सभ्यता/NN दा/PSP इक/QC प्रमुख/JJ बंदरगाह/NN शैह्-र/NN हा/VM जित्थून/PRP समुद्री/JJ बपार/NN होंदा/VM हा/VAUX ।/SYM
