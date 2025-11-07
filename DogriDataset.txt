@@ -318,6 +318,181 @@
 एह्/DEM सब्जी/NN ताजी/JJ ते/CC सस्ती/JJ ऐ/VM ।/SYM
 गर्मी/NN कन्नै/PSP सारे/QF रूख/NN सुक्के/JJ ते/CC पीलें/JJ होई/VM गे/VAUX न/VAUX ।/SYM
 मेरा/PRP तोलिया/NN अजें/RB तक्कर/PSP गिल्ला/JJ ऐ/VM ।/SYM
+सवेर/NN थमां/PSP ठंडी/JJ हवा/NN चली/VM करदी/VAUX ऐ/VAUX ।/SYM
+मिगी/PRP सब्जी/NN खरीदने/VM आस्तै/PSP बजार/NN जाना/VM ऐ/VAUX ।/SYM
+जम्मू/NNP च/PSP कलाड़ी/NNP कुल्चा/NNP बड़ा/INTF मशहूर/JJ ऐ/VM ।/SYM
+बच्चे/NN छत/NN पर/PSP गुड्डियां/NN उड़ा/VM करदे/VAUX न/VAUX ।/SYM
+असेंगी/PRP हमेशा/RB बुजुर्गें/NN दी/PSP मदद/NN करनी/VM चाहिदी/VAUX ।/SYM
+दिल्ली/NNP थमां/PSP रेलगड्डी/NN कदूं/WQ पुज्जग/VM ?/SYM
+जेकर/CC तुस/PRP मैह्-नत/NN करोगे/VM तां/CC जरूर/RB सफल/JJ होगे/VM ।/SYM
+इस/DEM दरिया/NN दा/PSP पानी/NN बड़ा/INTF साफ/JJ ते/CC ठंडा/JJ ऐ/VM ।/SYM
+बसोह्-ली/NNP चित्रकला/NN अपने/PRP अनोखे/JJ रंगें/NN आस्तै/PSP दुनिया/NN भर/NN च/PSP जानी/VM जंदी/VAUX ऐ/VAUX ।/SYM
+सवेर/NN दी/PSP सैर/NN सेहत/NN आस्तै/PSP चंगी/JJ होंदी/VM ऐ/VAUX ।/SYM
+कृपा/NN करियै/VM दरवाजा/NN आराम/NN कन्नै/PSP बंद/JJ करो/VM ।/SYM
+अस/PRP अगले/JJ म्‍हीने/NN कश्मीर/NNP घूमने/VM जांगे/VM ।/SYM
+एह्/DEM खबर/NN सुनियै/VM ओह्/PRP बड़ी/INTF खुश/JJ होई/VM ।/SYM
+उसगी/PRP बांसुरी/NN बजाना/VM बड़ा/INTF चंगा/JJ औंदा/VM ऐ/VAUX ।/SYM
+हून/RB पंज/QC बजे/NN न/VM ।/SYM
+एह्/DEM किताब/NN उस/DEM कोला/PSP मती/INTF चंगी/JJ ऐ/VM ।/SYM
+तींआं/NN त्यौहारें/NN पर/PSP नमीं/JJ सूट/NN ते/CC चूड़ीदार/NN पांदियां/VM न/VAUX ।/SYM
+सूरज/NN पूर्व/NST दिशा/NN थमां/PSP निकलदा/VM ऐ/VAUX ।/SYM
+बस/NN चलने/VM आह्-ली/ADJ ऐ/VAUX ,/SYM जल्दी/RB करो/VM ।/SYM
+मिगी/PRP कॉफी/NN शा/PSP मती/QF चाऽ/NN पसंद/JJ ऐ/VM ।/SYM
+साढ़ा/PRP स्कूल/NN बड्डे/JJ पार्क/NN दे/PSP पिच्छें/NST स्थित/JJ ऐ/VM ।/SYM
+क्या/WQ तुस/PRP इस/DEM भारी/JJ बक्से/NN गी/PSP चुक्की/VM सकदे/VAUX ओ/VAUX ?/SYM
+ओह्/PRP रोज/JJ सवेरे/NN अखबार/NN पढ़दा/VM ऐ/VAUX ।/SYM
+मिगी/PRP अज्ज/NN बड़ी/INTF भुੱਖ/NN लग्गी/VM दी/VAUX ऐ/VAUX ।/SYM
+ग्रांऽ/NN दे/PSP लोक/NN मुसीबत/NN दे/PSP बेल्लै/NN इक-दुए/PRP दी/PSP मदद/NN करदे/VM न/VAUX ।/SYM
+कंप्यूटर/NN ने/PSP साढ़ा/PRP कम्म/NN आसान/JJ बनाई/VM दित्ता/VAUX ऐ/VAUX ।/SYM
+ओह्/PRP बड्डी/JJ होकर/VM डॉक्टर/NN बनना/VM चाह्-न्दी/VM ऐ/VAUX ।/SYM
+अज्जकल/NST हर/QF कोई/PRP मोबाइल/NN फोन/NN दा/PSP इस्तेमाल/NN करदा/VM ऐ/VAUX ।/SYM
+किसान/NN अपने/PRP खेतें/NN च/PSP हल/NN चला/VM करदा/VAUX ऐ/VAUX ।/SYM
+निक्के/JJ बच्चे/NN आस्तै/PSP खिलौने/NN लैई/VM आओ/VM ।/SYM
+तुस/PRP साढ़े/PRP घर/NN आया/VM करा/VAUX ।/SYM
+हुन/NST मैं/PRP केह्/WQ करा/VM ?/SYM
+रोज/NST अखबार/NN पढ़्या/VM करा/VAUX ।/SYM
+समां/NN सिर/NST रोटी/NN खाया/VM करा/VAUX ।/SYM
+तुस/PRP थोड़ी/QF देर/NN आराम/NN कीता/VM करा/VAUX ।/SYM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
