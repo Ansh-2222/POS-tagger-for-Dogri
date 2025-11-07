@@ -99,18 +99,18 @@
 1192/QC च/PSP ,/SYM पृथ्वीराज/NNP चौहान/NNP दे/PSP पोतरे/NN गोविंदा/NNP ने/PSP एह्/PRP पर/PSP शासन/NN कीता/VM ।/SYM
 बाद/NST च/PSP ,/SYM उंʼदे/PRP पुत्तर/NN बागभट्ट/NNP ने/PSP किले/NN च/PSP स्थित/VM शैह्-र/NN गी/PSP शैल/JJ बनाया/VM ।/SYM
 1282/QC च/PSP इत्थै/PRP चौहान/NNP वंश/JJ दे/PSP राजा/NN हमीर/NNP दा/PSP शासन/NN हा/VM।/SYM 
-  
-
-
-   
-
-
-
-
-
-
-
-
+सिंधु/NNP घाटी/NNP सभ्यता/NN दुनिया/NN दी/PSP सभनें/INTF शा/PSP पराणियां/JJ सभ्यतां/NN बिच्चा/PSP इक/QC ऐ/VM ।/SYM
+कलिंग/NNP जुद्ध/NN दे/PSP बाद/NST ,/SYM सम्राट/NN अशोक/NNP ने/PSP बौद्ध/NNP धर्म/NN अपनाई/VM लैता/VAUX हा/VAUX ।/SYM
+गुप्त/NNP काल/NN गी/PSP पराचीन/JJ भारत/NNP दा/PSP 'स्वर्ण/NNP युग'/NNP आखेआ/VM जंदा/VAUX ऐ/VAUX ।/SYM
+मुगल/NNP बादशाह/NN अकबर/NNP अपनी/PRP धार्मिक/JJ सहनशीलता/NN दी/PSP नीति/NN आस्तै/PSP मशहूर/JJ हा/VM ।/SYM
+1857/QC दा/PSP विद्रोह/NN भारत/NNP दी/PSP अजादी/NN दी/PSP पैह्-ली/QC लड़ाई/NN मन्नेआ/VM जंदा/VAUX ऐ/VAUX ।/SYM
+महात्मा/NNP गांधी/NNP ने/PSP सच/NN ते/CC अहिंसा/NN दे/PSP रस्ते/NN पर/PSP चली/VM अजादी/NN दी/PSP लड़ाई/NN दी/PSP अगुवाई/NN कीती/VM ।/SYM
+भारत/NNP गी/PSP 15/QC अगस्त/NNP 1947/QC गी/PSP अंग्रेजी/JJ हुकूमत/NN कोला/PSP अजादी/NN मिली/VM ही/VAUX ।/SYM
+चोल/NNP राजवंश/NN ने/PSP दक्षिण/NNP भारत/NNP च/PSP बड्डे/JJ शानदार/JJ मंदरें/NN दा/PSP निर्माण/VM करोआया/VM हा/VAUX ।/SYM
+हड़प्पा/NNP ते/CC मोहनजो-दड़ो/NNP सिंधु/NNP सभ्यता/NN दे/PSP मुक्ख/JJ शैह्-र/NN हे/VAUX ।/SYM
+भारत/NNP दा/PSP संविधान/NN 26/QC जनवरी/NNP 1950/QC गी/PSP लागू/JJ कीता/VM गेआ/VAUX हा/VAUX ।/SYM
+शिवाजी/NNP महाराज/NNP ने/PSP 17मीं/NNP सदी/NNP च/PSP मराठा/NNP साम्राज्य/NN दी/PSP नीं/NN रक्खी/VM ही/VAUX ।/SYM
+जलियांवाला/NNP बाग/NNP दा/PSP नरसंहार/NN 1919/QC च/PSP अमृतसर/NNP च/PSP होआ/VM हा/VAUX ।/SYM
 
 
 
