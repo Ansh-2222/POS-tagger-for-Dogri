@@ -387,37 +387,37 @@
 रोज/NST अखबार/NN पढ़्या/VM करा/VAUX ।/SYM
 समां/NN सिर/NST रोटी/NN खाया/VM करा/VAUX ।/SYM
 तुस/PRP थोड़ी/QF देर/NN आराम/NN कीता/VM करा/VAUX ।/SYM
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+अज्जकल/NST दे/PSP समें/NN च/PSP ,/SYM निक्के/JJ -/SYM निक्के/JJ ग्रांएं/NN च/PSP बी/RP लोक/NN मोबाइल/NN फोनें/NN दा/PSP इस्तेमाल/NN सिर्फ/RB गल्ल-बात/NN करने/VM आस्तै/PSP गै/RP नेईं/NEG करदे/VM ,/SYM बल्के/CC इंटरनेट/NNP थमां/PSP नमीं/JJ -/SYM नमीं/JJ चीजें/NN सिक्खने/VM लेई/PSP बी/RP करदे/VM न/VAUX ,/SYM जेह्ड़ा/PRP उ'नेंदे/PRP जीवन/NN जीने/VM दे/PSP तरीके/NN गी/PSP बदली/VM करदा/VAUX ऐ/VAUX ।/SYM
+जेकर/CC अस/PRP हून/RB अपने/PRP वातावरण/NN दी/PSP संभाल/NN नेईं/NEG कीती/VM ,/SYM तां/CC औने/VM आह्-ली/ADJ पीढ़ियें/NN गी/PSP मती/INTF सारियां/QF मुश्कलें/NN दा/PSP सामना/NN करना/VM पौग/VAUX ,/SYM खास/JJ करियै/VM साफ/JJ पानी/NN ते/CC ताजी/JJ हवा/NN दे/PSP घटदे/VM स्रोतें/NN गी/PSP लैइयै/VM ।/SYM
+जम्मू/NNP दी/PSP उच्चियां/JJ प्हाड़ियें/NN पर/PSP स्थित/JJ पराने/JJ किले/NN ना/NEG सिर्फ/RB डोगरा/NNP राजें/NN दी/PSP बहादरी/NN दी/PSP क्हानियां/NN दस्सदे/VM न/VAUX ,/SYM बल्के/CC उत्थै/PRP घूमने/VM औने/VM आह्-ले/ADJ सैलानियें/NN गी/PSP कुदरती/JJ सुंदरता/NN दा/PSP इक/QC शानदार/JJ नजारा/NN बी/RP पेश/JJ करदे/VM न/VAUX ।/SYM
+समाज/NN गी/PSP अग्गें/NST बधाने/VM आस्तै/PSP एह्/PRP बड़ा/INTF जरूरी/JJ ऐ/VM जे/CC कुड़ियें/NN गी/PSP उच्च/JJ शिक्षा/NN दे/PSP बराबर/JJ मौके/NN दित्ते/VM जान/VAUX तां/CC जे/CC ओह्/PRP आत्मनिर्भर/JJ बनी/VM सकन/VAUX ते/CC देश/NN दे/PSP विकास/NN च/PSP अपना/PRP अहम/JJ योगदान/NN देई/VM सकन/VAUX ।/SYM
+जदूं/RB कोई/PRP इंसान/NN अपनी/PRP पूरी/JJ मैह्-नत/NN ,/SYM ईमानदारी/NN ते/CC लगन/NN कन्नै/PSP कुसै/PRP कम्म/NN गी/PSP पूरा/JJ करने/VM दी/PSP कोशिश/NN करदा/VM ऐ/VAUX ,/SYM तां/CC देर/NN -/SYM सवेर/NN उसगी/PRP कामयाबी/NN जरूर/RB मिलदी/VM ऐ/VAUX ,/SYM भामें/CC रस्ते/NN च/PSP किन्नियां/WQ बी/RP रुकावटें/NN कीं/WQ ना/NEG औन/VM ।/SYM
+सियालें/NN दी/PSP रुत्त/NN च/PSP धुंध/NN पैने/VM दे/PSP कारण/PSP अक्सर/RB रेलगड्डियां/NN ते/CC हवाई/JJ जहाजें/NN दी/PSP आवाजाही/NN पर/PSP बुरा/JJ असर/NN पौंदा/VM ऐ/VAUX ,/SYM जिसदे/PRP कन्नै/PSP जात्तरियें/NN गी/PSP घंटों/NN तक्कर/PSP स्टेशनें/NN पर/PSP इंतजार/NN करना/VM पौंदा/VAUX ऐ/VAUX ते/CC उ'नेंदा/PRP कीमती/JJ समां/NN बर्बाद/JJ होंदा/VM ऐ/VAUX ।/SYM
+आधुनिक/JJ विज्ञान/NN ने/PSP भामें/CC इंसान/NN गी/PSP चंद/NNP ते/CC मंगल/NNP ग्रह/NN तक्कर/PSP पुज्जाई/VM दित्ता/VAUX ऐ/VAUX ,/SYM पर/CC अजें/RB बी/RP धरती/NN पर/PSP केईं/QF ऐसी/DEM लाइलाज/JJ बीमारियां/NN न/VM जि'नेंदा/PRP पक्का/JJ इलाज/NN लब्भना/VM डाक्टरें/NN ते/CC वैज्ञानिकें/NN आस्तै/PSP इक/QC बड्डी/JJ चुनौती/NN बने/VM दा/VAUX ऐ/VAUX ।/SYM
+सरकारें/NN पिं'डें/NN च/PSP बुनियादी/JJ ढांचे/NN दी/PSP कमी/NN दे/PSP बाबजूद/PSP डिजिटल/JJ साक्षरता/NN पर/PSP इ'न्ना/INTF जोर/NN कीं/WQ देई/VM करदियां/VAUX न/VAUX ?/SYM
+क्या/WQ तुसेंगी/PRP लग्गदा/VM ऐ/VAUX जे/CC अपनी/PRP पारंपरिक/JJ भाशाएं/NN गी/PSP बचाए/VM बिना/PSP अस/PRP इस/DEM आधुनिक/JJ दौर/NN च/PSP अपनी/PRP असली/JJ सांस्कृतिक/JJ प'छान/NN कायम/JJ रक्खी/VM सकदे/VAUX आं/VAUX ?/SYM
+क्या/WQ विद्यार्थियें/NN आस्तै/PSP एह्/DEM बेह्-तर/JJ ऐ/VM जे/CC ओह्/PRP सिर्फ/RB नंबर/NN लैने/VM आस्तै/PSP पढ़ाई/NN पर/PSP ध्यान/NN देन/VM ,/SYM जां/CC फिर/RB उ'नेंगी/PRP सर्वांगीण/JJ विकास/NN आस्तै/PSP खे'ड-कूद/NN च/PSP बी/RP हिस्सा/NN लैना/VM चाहिदा/VAUX ?/SYM
+शैह्-र/NN च/PSP इ'न्ना/INTF प्रदूषण/NN दिक्खियै/VM ,/SYM क्या/WQ कोई/PRP सच्चे/JJ मनै/NN कन्नै/PSP आक्खी/VM सकदा/VAUX ऐ/VAUX जे/CC अस/PRP औने/VM आह्-ली/ADJ पीढ़ियें/NN आस्तै/PSP इक/QC बेह्-तर/JJ दुनिया/NN छोड़ी/VM करदे/VAUX आं/VAUX ?/SYM
+मैं/PRP हून/NST केह्/WQ करा/VM ?/SYM
+तू/PRP रोज/NST समें/NN सिर/NST स्कूल/NN जाया/VM करा/VAUX ।/SYM
+मैं/PRP तुंदी/PRP मदत/NN किʼयां/WQ करा/VM ?/SYM
+तू/PRP घरे/NN दा/PSP कम्म/NN आपै/PRP केआ/VM करा/VAUX ।/SYM
+मैं/PRP इस/DEM मसले/NN पर/PSP सोच-विचार/NN करा/VM ।/SYM
+तू/PRP हमेशा/RB सच/NN बोलेआ/VM करा/VAUX ।/SYM
+मैं/PRP अज्ज/NST थोड़ी/QF देर/NN आराम/NN करा/VM ।/SYM
+तू/PRP अपने/PRP बड्डें/NN दा/PSP आदर/NN केआ/VM करा/VAUX ।/SYM
+मैं/PRP एह्/DEM सवाल/NN किʼयां/WQ हल/NN करा/VM ?/SYM
+तू/PRP समें/NN सिर/NST दवाई/NN लेआ/VM करा/VAUX ।/SYM
+मैं/PRP रब्ब/NNP दा/PSP शुक्राना/NN करा/VM ।/SYM
+तू/PRP रातीं/NN जल्दी/RB सोया/VM करा/VAUX ।/SYM
+मैं/PRP कोशिश/NN करा/VM जे/CC सब/QF ठीक/JJ होई/VM जा/VAUX ।/SYM
+तू/PRP गरीबें/NN दी/PSP मदत/NN केआ/VM करा/VAUX ।/SYM
+मैं/PRP अगली/JJ बारी/NN ध्यान/NN रक्खा/VM ते/CC एह्/DEM गलती/NN ना/NEG करा/VM ।/SYM
+तू/PRP सभनें/PRP कन्नै/PSP रली-मिली/RB रौह्-आ/VM करा/VAUX ।/SYM
+मैं/PRP तुंदे/PRP कन्नै/PSP बाद/NST च/PSP गल्ल/NN करा/VM ।/SYM
+तू/PRP सफाई/NN दा/PSP खास/JJ ध्यान/NN रक्खेआ/VM करा/VAUX ।/SYM
+मैं/PRP पैह्-लें/NST अपना/PRP कम्म/NN खत्म/JJ करा/VM ।/SYM
+तू/PRP रोज/NST थोड़ी/QF सैर/NN केआ/VM करा/VAUX ।/SYM
 
 
 
