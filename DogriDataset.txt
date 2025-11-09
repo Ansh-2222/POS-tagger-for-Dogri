@@ -288,7 +288,7 @@
 नमें/JJ कानून/NN दे/PSP विरोध/NN च/PSP लोकें/NN ने/PSP जलूस/NN कड्ढेआ/VM ।/SYM
 ओह्/PRP ना/NEG सिर्फ/RB गांदा/VM ऐ/VAUX ,/SYM बल्के/CC नच्चदा/VM बी/RP ऐ/VM ।/SYM
 मैं/PRP चाह्-न्दा/VM आं/VAUX जे/CC तुस/PRP सारे/QF खुश/JJ रौह्-ओ/VM ।/SYM
-उसनें/PRP नमीं/JJ गड्डी/NN खरीदी/VM ।/SYM
+उसनें/PRP नमीं/JJ गड्डी/NN खरीदी/VM ।/SYM 
 एह्/DEM पुराना/JJ किला/NN बड़ा/INTF मजबूत/JJ ऐ/VM ।/SYM
 अज्ज/NN अंबर/NN बड़ा/INTF साफ/JJ ते/CC नीला/JJ ऐ/VM ।/SYM
 ओह्/PRP इक/QC चंगा/JJ ते/CC नेकदिल/JJ इंसान/NN ऐ/VM ।/SYM
