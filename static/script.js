@@ -40,7 +40,7 @@ document.getElementById("tag-btn").addEventListener("click", async () => {
 });
 
 document.getElementById("sample-btn").addEventListener("click", () => {
-    document.getElementById("dogri-input").value = "अंश , सलोनी ते समर्थ इक परियोजना पर कम्म करा दे न ।";
+    document.getElementById("dogri-input").value = "अंश ते समर्थ इक परियोजना पर कम्म करा दे न ।";
 });
 
 document.getElementById("clear-btn").addEventListener("click", () => {
